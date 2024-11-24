@@ -9,28 +9,7 @@
 *.ini
 *.DS_Store
 
-.ipynb_checkpoints
-_delete
-img
+.env
+
 dataset
-text_files
 node_modules
-
-result1.json
-result2.json
-іменники 2 відміна тверда група.json
-Прикметники_М'якої_Групи.json
-
-!Lab1_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Lab2_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Lab3_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Lab4_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Lab5_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Lab6_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Lab7_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Lab8_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Lab9_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Lab10_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Module_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Module1_Tretyakov_Volodymyr_ІПЗм-21*.pdf
-!Module2_Tretyakov_Volodymyr_ІПЗм-21*.pdf
