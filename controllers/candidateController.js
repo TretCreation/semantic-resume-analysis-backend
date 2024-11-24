@@ -1,38 +1,43 @@
 const path = require('path');
-const { loadDataset } = require('../utils/ratingUtils');
+const fs = require('fs');
+const { parseResume } = require('../utils/resumeParser');
 const { calculateRating } = require('../utils/ratingUtils');
+const { extractImportantData } = require('../utils/extractUtils');
 
-const filterCandidatesWithRating = async (req, res) => {
+const analyzeDatasetWithCriteria = async (req, res) => {
   try {
-    const datasetPath = path.join(__dirname, '../dataset/data.csv');
-    const dataset = await loadDataset(datasetPath);
+    const resumesDir = path.join(__dirname, '../dataset/resumes');
+    const files = fs.readdirSync(resumesDir);
     const criteria = req.body.criteria;
 
     if (!criteria || !Array.isArray(criteria) || criteria.length === 0) {
       return res.status(400).json({ message: 'Invalid criteria format. Please provide an array of criteria.' });
     }
 
-    const candidatesWithRating = dataset.map((candidate) => {
-      const rating = calculateRating(candidate, criteria);
-      return {
-        Rating: rating,
-        Category: candidate.Category,
-        Resume: candidate.Resume,
-      };
-    });
+    const candidates = [];
+    for (const file of files) {
+      const filePath = path.join(resumesDir, file);
+      const resumeText = await parseResume(filePath);
+      const extractedData = extractImportantData(resumeText);
+      const rating = calculateRating(extractedData, criteria);
 
-    const sortedCandidates = candidatesWithRating.sort((a, b) => b.Rating - a.Rating);
+      candidates.push({
+        FileName: file,
+        Rating: rating,
+        ExtractedData: extractedData,
+      });
+    }
+
+    const sortedCandidates = candidates.sort((a, b) => b.Rating - a.Rating);
 
     res.status(200).json({
-      message: 'Candidates filtered successfully with ratings.',
+      message: 'Resumes analyzed successfully.',
       candidates: sortedCandidates,
     });
   } catch (error) {
     console.error(error);
-    res.status(500).json({ message: 'An error occurred while filtering candidates.', error: error.message });
+    res.status(500).json({ message: 'An error occurred while analyzing resumes.', error: error.message });
   }
 };
 
-module.exports = {
-  filterCandidatesWithRating,
-};
+module.exports = { analyzeDatasetWithCriteria };

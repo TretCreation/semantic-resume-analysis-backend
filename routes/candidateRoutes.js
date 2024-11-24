@@ -1,8 +1,8 @@
 const express = require('express');
-const { filterCandidatesWithRating } = require('../controllers/candidateController');
+const { analyzeDatasetWithCriteria } = require('../controllers/candidateController');
 
 const router = express.Router();
 
-router.post('/filter', filterCandidatesWithRating);
+router.post('/analyze-dataset', analyzeDatasetWithCriteria);
 
 module.exports = router;

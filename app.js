@@ -8,6 +8,7 @@ const port = process.env.PORT || 3000;
 
 app.use(express.json());
 
+// Роуты
 app.use('/api/candidates', candidateRoutes);
 
 app.listen(port, () => {
