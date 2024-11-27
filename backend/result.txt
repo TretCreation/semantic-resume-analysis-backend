@@ -1,0 +1,1510 @@
+========================================
+Файл: candidate_000.pdf
+Ключові терміни: ['Machine', 'E', ',', 'R', 'Learning']
+Ядро тексту: Tech, ECE VIT-AP University 2020 OTHER ACTIVITIES Deep Learning Masters Machine LearningPROJECTS Music Genre Classification Face, eye, smile recognitionPERSONAL PROFILE I am actively seeking opportunity as Data Analyst or Machine Learning Engineer. My goal is to discover new business strategies and create an impact through data driven analytical decisions and leading the business to success.WORK BACKGROUND Experts Hub Intern, May 2019 I was part of a team that designed and developed a smart parking system based on Object Recognition.
+Вода: JACOB SMITH F R E S H E R SKILLS Python, SQL, MySQL, Tableau, Power Bi, Pandas , Numpy, Matplotlib, Excel , Machine Learning, AWS(EMR,EC2,S3), Cloud, Hive(HQL), and ExcelEDUCATION B. My goal is to discover new business strategies and create an impact through data driven analytical decisions and leading the business to success.WORK BACKGROUND Experts Hub Intern, May 2019 I was part of a team that designed and developed a smart parking system based on Object Recognition.
+Нудність тексту: 11.93%
+Стоп-слова: ['to', 'an', 'as', 'the', 'of', 'on', 'is', 'and', 'I', 'a']
+Кількість слів: 109
+========================================
+
+========================================
+Файл: candidate_001.pdf
+Ключові терміни: ['Analysis,', 'Data', 'Machine', 'learning', 'data']
+Ядро тексту: Other Activities Trained in Big Data Analysis Hadoop A-1 Level Certificate Projects Chatbot for customer feedback and responses. Machine Learning Junior Developer, Aug 2020 - Ongoing Engineered an NLP solution that took any kind of text as an input and found top 5 Questions and Answers similar to it
+Вода: Contributed to some other internal projects also. Education BSc(CA) MamCO University Kerala, 2018 MSc(CA) MamCO University Kerala, 2020
+Нудність тексту: 18.07%
+Стоп-слова: ['to', 'the', 'of', 'an', 'as', 'for', 'A', 'with', 'and', 'I', 'in']
+Кількість слів: 166
+========================================
+
+========================================
+Файл: candidate_002.pdf
+Ключові терміни: ['Analysis,', 'Data', 'employees', 'data', 'Deep']
+Ядро тексту: (Electronics/Telecommunication) from Nagpur University in 2019WORK EXPERIENCE EDUCATIONMASON QUADRADO ASSOCIATE ANALYST Certified Data analyst with a degree in Electronics Engineering, I have hands on experience in analyzing & interpreting data with good numerical accuracy. AMZ Loans and Mortgages ERC Analytics, Jun 2019 to till date Handling data of employees and finding retention factors and employee satisfaction
+Вода: B.Tech/B.E. Worked Closely with the HR team to find a balance that was beneficial for both employees and the Company
+Нудність тексту: 15.0%
+Стоп-слова: ['to', 'the', 'of', 'on', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 120
+========================================
+
+========================================
+Файл: candidate_003.pdf
+Ключові терміни: ['ACS', 'communication', '2018', 'based', 'my']
+Ядро тексту: Involved in architectural design of creating a pipeline to facilitate the communication between React web app and the Edge devices.RODNEY MICHAELS SKILLS Python, Machine Learning, Deep Learning, Data Analysis, Computer Vision, AWS, Scikit-Learn, Numpy, Java, C++, SAP PROJECTS IoT based project that automatically turned on music based on speech and toneEXPERIENCE EDUCATION B.TECH FROM V.V.I.T IN 2018 ACTIVITIES AND AWARDS RUNNER-UP, SOLINOVATE, BITS GOA UPCOMING JUNIOR DEVELOPER ACS Technologies, 2019ASSOCIATE SOFTWARE ENGINEER. SOFTWARE ENGINEER -MACHINE LEARNING ACS Solutions Pvt
+Вода: Ltd. PROFILE Extremely motivated to constantly develop my skills and grow professionally
+Нудність тексту: 17.69%
+Стоп-слова: ['to', 'on', 'the', 'of', 'IN', 'AND', 'with', 'FROM', 'and', 'I', 'a', 'in']
+Кількість слів: 130
+========================================
+
+========================================
+Файл: candidate_004.pdf
+Ключові терміни: ['data', 'EXTRA-CURRICULARS', 'projects', 'end', '-']
+Ядро тексту: OLIVIA SANTOS CONSULTANT ANALYST WORK EXPERIENCE Cognizant, Apr 2020 - OngoingConsultant Collaborating with different business units to collect data and find optimal solutions both for production as well as delivery level. Cognizant,Dec 2018 - Mar 2019Software Developer Analyst Worked as a software developer and analyst for various projects concerned with middleware
+Вода: EXTRA-CURRICULARS EXTRA-CURRICULARS. ACADEMIC PROFILE B.tech Electrical Engineering, 2018Bhubaneshwar Institute of TechnologyEXECUTIVE SUMMARY Data Engineer and solution specialist
+Нудність тексту: 19.05%
+Стоп-слова: ['to', 'the', 'as', 'of', 'on', 'for', 'with', 'and', 'a', 'in']
+Кількість слів: 126
+========================================
+
+========================================
+Файл: candidate_005.pdf
+Ключові терміни: ['Data', 'AWS', 'Machine', 'HISTORY', 'Mathematical']
+Ядро тексту: Ardent developer of Cloud- based data solutions and machine learning products using AWS. ACHIEVEMENTS AND EXTRA CURRICULARS AWS Sagemaker Level 2 Architect AWS Certified Data EngineePROFICIENT SKILLS Mathematical modelling, Machine Learning, Predictive Analysis, Artificial Intelligence, AWS deployment, Data gathering, Data Mining, Python.EMPLOYMENT HISTORY Data Sampling and management of Agricultural Produce and finding correlation between faulty outcomes and safe production measures taken to handle the produceBPM Foundation, Jun 2020 - OngoingData Manager EDUCATIONAL HISTORY B.Tech in 2019 Sanghvi College of Engineering
+Вода: ARMIN FITZGERALD DA T A M A N A G E R PROFESSIONAL PROFILE Expertise in Mathematical Modelling, Data Gathering, Machine Learning, Deep Learning. ACHIEVEMENTS AND EXTRA CURRICULARS AWS Sagemaker Level 2 Architect AWS Certified Data EngineePROFICIENT SKILLS Mathematical modelling, Machine Learning, Predictive Analysis, Artificial Intelligence, AWS deployment, Data gathering, Data Mining, Python.EMPLOYMENT HISTORY Data Sampling and management of Agricultural Produce and finding correlation between faulty outcomes and safe production measures taken to handle the produceBPM Foundation, Jun 2020 - OngoingData Manager EDUCATIONAL HISTORY B.Tech in 2019 Sanghvi College of Engineering
+Нудність тексту: 17.31%
+Стоп-слова: ['to', 'the', 'of', 'AND', 'A', 'and', 'in']
+Кількість слів: 104
+========================================
+
+========================================
+Файл: candidate_006.pdf
+Ключові терміни: ['Computer', 'Machine', 'learning,', 'IIT', 'Fresher']
+Ядро тексту: JENNIFER ARMSTRONG PROFILE Fresher Computer vision and Machine Learning Engineer looking for a job that is both challenging and fun in terms of problem-solving. EXPERIENCE Currently No Professional ExperienceEDUCATION B.Tech Computer Science from IIT Guwahati, 2021COMPUTER VISION ENTHUSIAST ACTIVITIES Distinction medalist
+Вода: Honorary member of Student Council for innovation. PROJECTS Understanding images GAN based modern fashion portal Corporate Attendance using Face Recognition
+Нудність тексту: 12.37%
+Стоп-слова: ['at', 'an', 'to', 'of', 'the', 'is', 'for', 'from', 'and', 'a', 'in']
+Кількість слів: 97
+========================================
+
+========================================
+Файл: candidate_007.pdf
+Ключові терміни: ['Business', 'Data', '2020', 'Machine', 'Kolkata']
+Ядро тексту: ISABELLA REED CONSULTANT ANALYST SKILLS Data Science, Machine Learning, Business Analysis, Business Analytics, Data Analysis, Data Analytics.EDUCATION B.Tech(Computer Science) RCC IT, Kolkata 2018 MBa, Praxis School of Business, Kolkata 2020 OTHER ACTIVITIES Introduction to Python [Datacamp] Machine Learning for Business SQL (intermediate)PROJECTS Attrition analysis and Visualization Divvy Rider And Business Analysis Dashboard Cardiac Arrest PredictionPERSONAL PROFILE Interested in Computationally Rich problems. Proper hands on experience with Analytical tools.WORK BACKGROUND IRRM International Junior Analyst Expert, Feb 2020 to Oct 2020 Worked as a remote analyst on company production, expenditure, and investment.
+Вода: Loves to work on different problems that require different understanding of data. Proper hands on experience with Analytical tools.WORK BACKGROUND IRRM International Junior Analyst Expert, Feb 2020 to Oct 2020 Worked as a remote analyst on company production, expenditure, and investment.
+Нудність тексту: 16.67%
+Стоп-слова: ['to', 'on', 'of', 'as', 'for', 'with', 'and', 'And', 'a', 'in']
+Кількість слів: 102
+========================================
+
+========================================
+Файл: candidate_008.pdf
+Ключові терміни: ['data', 'Data', 'Machine', 'find', 'Deep']
+Ядро тексту: Other Activities Azure Certification Deep Learning Specialization Projects Predicting hotspots for adversarial patch attack Object Detection using transfer learningSkills Data Analysis, Data Analytics, Data Mining, Deep Learning, Machine Learning, Artificial Intelligence, Linear Regression, Data Exploration, Sequential Analysis.Work Experience WTPL Associate Project Engineer, Jun 2020 - till date Worked as a Developer using frameworks in the domain of Machine Learning. Mia Park PROJECT ENGINEER Executive Profile Looking to utilize hands-on experience of machine learning, deep learning and Artificial Intelligence for data discovery, exploration, prediction and analysis tasks
+Вода: Education B.Tech(Computers) from Goverment College Of Engineering And Ceramic Technology in 2020. Worked closely with the data collection team to find anomalies in the data and find better filtration techniques when extracting data from large warehouses
+Нудність тексту: 19.67%
+Стоп-слова: ['Of', 'to', 'the', 'of', 'as', 'for', 'from', 'with', 'and', 'And', 'a', 'in']
+Кількість слів: 122
+========================================
+
+========================================
+Файл: candidate_009.pdf
+Ключові терміни: ['NLP', 'Data', 'Machine', 'am', 'user']
+Ядро тексту: B.Tech (Electrical) PGG College Bangalore, 2019WORK EXPERIENCE EDUCATIONETHAN CONNERS JUNIOR NLP ENGINEER I am currently a Graduate who works with NLP-based problems. Machine Learning, Data Transition, Natural Language Processing, Predictive Analytics, Data Cleaning, Data Visualization, Deep Learning, BeRT Modelling, Tensorflow, Python, SciKit Learn and Data computation libraries in python.ABOUT SKILLS EP analysis Polarisation Determination using NLP NLP Classification of toxicity in chat IABAC Certified Data Scientist DataCamp NLP Degree Coursework PROJECT OTHER QUALIFICATION
+Вода: Always a team player and ready to take criticism and work towards better outcomes. I am also familiar with Machine Learning Methodologies for production environments
+Нудність тексту: 15.79%
+Стоп-слова: ['on', 'to', 'of', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 133
+========================================
+
+========================================
+Файл: candidate_010.pdf
+Ключові терміни: ['Transportation', 'Data', 'Machine', 'Intelligent', 'Algorithm']
+Ядро тексту: ABIGAIL FERNANDES SKILLS Machine Learning Engineer, Data Processing, Data Modelling, Data Structures, Deep Learning, Application Development, Python, Django, Flask, Kubernetes, C++ PROJECTS Conway's Game of Life using Symmetrical Algorithm Position and Location Determination for Transportation System.EXPERIENCE EDUCATION B.TECH(COMPUTERS) FROM SHRI GURU GOBIND SINGHJI COLLEGE OF ENGINEERING AND TECHNOLOGY, NANED IN 2019 ACTIVITIES AND AWARDS RUNNER-UP, SOLINOVATE, BITS GOA NANYANG TECHNOLOGICAL UNIVERSITY, RESEARCH ASSISTANT SEP 2018 Developed a positioning system based on coarse-grained location data for Intelligent Transportation System.ASSOCIATE MACHINE LEARNING ENGINEER. During college, I also worked as a Research Assistant, where I was part of team that was developing A segmentation technique for Intelligent Transportation System
+Вода: TATA CONSULTANCY SERVICES LTD. PROFILE I just started my journey as a Machine Learning developer after graduating from college
+Нудність тексту: 18.83%
+Стоп-слова: ['TO', 'the', 'as', 'of', 'on', 'IN', 'for', 'from', 'A', 'OF', 'AND', 'FROM', 'and', 'I', 'a']
+Кількість слів: 154
+========================================
+
+========================================
+Файл: candidate_011.pdf
+Ключові терміни: ['Data', 'Machine', 'Modeling,', '2020', 'Fresher']
+Ядро тексту: ACADEMIC PROFILE B.Tech(Civil) Garodia Institute of Technosciences, 2020 EXECUTIVE SUMMARY Fresher with strong statistical and analytic capabilities. Though I am from Civil Engineering background I have always been fascinated with data and how Machine Learning is evolving with iit
+Вода: PROJECTS Railway Signals Determiner using relay weight system. Someone who is driven by the passion for problem solving
+Нудність тексту: 14.95%
+Стоп-слова: ['to', 'the', 'of', 'is', 'for', 'from', 'by', 'with', 'and', 'I', 'in']
+Кількість слів: 107
+========================================
+
+========================================
+Файл: candidate_012.pdf
+Ключові терміни: ['Data', 'Analysis,', 'E', 'data', 'HISTORY']
+Ядро тексту: ACHIEVEMENTS AND EXTRA CURRICULARS Firebase Engineer level 2 GCP Architect Proficiency 1 Big Data Analytics Crash course P R O J E C T S Video Recommender System NLP text extraction from online scripturesPROFICIENT SKILLS Business Analytics, Data Analysis, Machine Learning, SQL, Firebase, AWS, GCP, Cloud Infrastructure, Python, Text Mining, Database Management and Processing, Time Series Analysis, Research Analysis, EMPLOYMENT HISTORY Pricing Engine, Vehicle Allocation Problem, Optimising Route Mechanism development with the help of big data analytics.Associate Data Scientist, Aug 2020 to Till DateE Express EDUCATIONAL HISTORY B.Sc (Statistics) in 2019Lucknow University. Under the guidance of company's professionals I can contribute to company's success using my extensive analytical skills
+Вода: JIMMY GARTNER DA T A M A N A G E R PROFESSIONAL PROFILE I am looking for an opportunity to work as a Data Scientist. Possessing right and accurate skills at collecting, analyzing, interpreting large datasets and performing data management tasks
+Нудність тексту: 13.25%
+Стоп-слова: ['at', 'to', 'an', 'as', 'the', 'of', 'for', 'A', 'AND', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 151
+========================================
+
+========================================
+Файл: candidate_013.pdf
+Ключові терміни: ['Machine', 'Deep', 'Computer', 'Predicting', 'Learning']
+Ядро тексту: EXPERIENCE ViZon LTD Junior Intern Aug 2019- Sep 2020 Used Pre-trained Model of VGG16 for Image Classification..EDUCATION B.Tech Computer Science & Engineering from Sadar Sai Chand College, Mumbai in 2019FRESHER DEEP LEARNING PRACTITIONER ACTIVITIES Python Analysis with Pandas and Numpy Hands on Machine Learning PROJECTS Predicting Dispute Category Predicting Payment days category of an invoice. I am experienced with latent as well as cloud-based models on Azure and AWSSKILLS Applied Machine Learning, Deep Learning, Computer Vision, Guided Mechanisms, Search Algorithms, Optimization, Parameter tuning
+Вода: ANTHONY GUAP PROFILE Deep Learning fresher who is looking to join a company to understand and experience production grade models. I am experienced with latent as well as cloud-based models on Azure and AWSSKILLS Applied Machine Learning, Deep Learning, Computer Vision, Guided Mechanisms, Search Algorithms, Optimization, Parameter tuning
+Нудність тексту: 12.62%
+Стоп-слова: ['to', 'on', 'as', 'of', 'an', 'is', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 103
+========================================
+
+========================================
+Файл: candidate_014.pdf
+Ключові терміни: ['Software', 'Deployment', 'face', 'Machine', 'am']
+Ядро тексту: EDUCATION B.Tech in Electronics & Computers from DVR College of Engineering & Technology in 2017 Post Graduation in Software Development from CDAC Noida in 2019 OTHER ACTIVITIES Scalable Projects and their Deployment - SDLC Pioneers Deployment of End to End ML Projects - KVCC'20 WorkshopPROJECTS Clustering of images based on feature management Creating a recommender system to understand false alarms on support side of real time services.PERSONAL PROFILE I am a software engineer who has worked on several computer vision projects and their end to end deployment. WORK BACKGROUND Eximius Design Pvt ltd company Software Development and Deployment Engineer Apr 2019 to Till Date Implementing multiple components of a face identification system which include face alignment and landmark detection
+Вода: Performed Image manipulation operations on data to increase the accuracy of the pipeline.. I am looking to join as a Machine Learning developer to closely work on problems and increase my grasp over the domain
+Нудність тексту: 27.23%
+Стоп-слова: ['to', 'on', 'of', 'as', 'the', 'AND', 'from', 'and', 'I', 'a', 'in']
+Кількість слів: 191
+========================================
+
+========================================
+Файл: candidate_015.pdf
+Ключові терміни: ['Business', 'am', 'SP', 'Award', 'Data']
+Ядро тексту: John Allen BUSINESS ANALYST Executive Profile I am a business analytics fresher with a background in management and corporate analysis. Other Activities Business Intelligence Contribution Award BBA Injunction Award for Best Performer Projects Intelligent Liaison Methods for Future Business and Production Ready Environments.Skills Business analyst, Data modeling, Business intelligence, ERP implementation, html, Requirement Gathering, Power Bi, Project Management.Work Experience JVV IT Solutions Business Analyst, Feb 2020 - till date Using Strategic Business Approach to enhance the quality of service between different vendors for an easier transition and product exchanges for bigger projects
+Вода: I am currently looking for an opportunity as a Data Science or Machine Learning Engineer. Education :BBA (Management) from SP University in 2018 MBA(Information Technology) from SP UNIVERSITY in 2020
+Нудність тексту: 18.85%
+Стоп-слова: ['an', 'to', 'as', 'IT', 'the', 'of', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 122
+========================================
+
+========================================
+Файл: candidate_016.pdf
+Ключові терміни: ['Data', 'am', 'Machine', 'learn', 'role']
+Ядро тексту: I can offer a strong programming skills and good academic results together with a sound knowledge of implementing Machine learning techniques. AMELIA MARTIN DATA SCIENCE MAJOR WORK EXPERIENCE NA ACADEMIC PROFILE B.Tech(Computers) from AIT, Gurukulnagar in 2018 Masters (Data Science) from WSM University, Ahmedabad in 2020EXECUTIVE SUMMARY I am a Master of Data Science graduate looking to work as a full- time employee, seeking an entry level role in data science domain
+Вода: PROJECTS Determining Correlation of Dataset Interpretability of Unlabeled. Also, I am keen to learn new skill sets that the role demands
+Нудність тексту: 20.29%
+Стоп-слова: ['to', 'an', 'of', 'as', 'the', 'on', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 138
+========================================
+
+========================================
+Файл: candidate_017.pdf
+Ключові терміни: ['data', 'Machine', 'optimization', 'improvement', 'MACHINE']
+Ядро тексту: CAPITUM INDIA, NASIK JUNIOR MACHINE LEARNING ENGINEER, APR 2020 TO TILL DATE Evaluating and pre-processing client's credit data and financial statements in order to determine the degree of risk involved in lending money to them. PROFILE I am a Junior Machine Learning developer who focuses on data improvement and modelling, finding patterns in large databases and optimization of different models
+Вода: PROJECTS Music suggestion from closest words in a search term using Flask.EXPERIENCE EDUCATION B.TECH(ELECTRICAL) FROM JCP COLLEGE OF ENGINEERING AND TECHNOLOGY, MUMBAI IN 2020JUNIOR MACHINE LEARNING ENGINEER. Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques, and business strategies
+Нудність тексту: 18.75%
+Стоп-слова: ['on', 'TO', 'of', 'to', 'the', 'IN', 'for', 'from', 'OF', 'AND', 'FROM', 'and', 'I', 'a', 'in']
+Кількість слів: 144
+========================================
+
+========================================
+Файл: candidate_018.pdf
+Ключові терміни: ['Machine', 'HISTORY', 'Neural', 'Certified', 'Image']
+Ядро тексту: ACHIEVEMENTS AND EXTRA CURRICULARS Certified Entry Level Python Programmer Certified Associate Level in Python Programming P R O J E C T S Deep Learning assisted Image recognition.PROFICIENT SKILLS Machine Learning, Deep Learning, Neural Networks, ML Algorithms, Python, NumPy, Scikit Learn, Matplotlib, Keras, Pandas, TensorFlow, Seaborn, Java, ReactJS, NodeJS.EMPLOYMENT HISTORY I was trained on how to use Neural networks w.r.t to classical problems that existed in Machine Learning. EVELYNN ADAMS GRADUATE FRESHER PROFESSIONAL PROFILE I am a recent graduate who is interested and fascinated by Machine learning
+Вода: During the Capstone project I created a supervised model for Image recognition with minimal training. Intern Trainee, Aug 2020 to Dec 2020E-Novate Labs EDUCATIONAL HISTORY B.Sc (Computer Science) KTM College, Nashik, 2019 MCA (Computers), SPP University, Pune, 2021Lucknow University
+Нудність тексту: 17.2%
+Стоп-слова: ['to', 'the', 'of', 'as', 'an', 'on', 'is', 'AND', 'for', 'by', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 157
+========================================
+
+========================================
+Файл: candidate_019.pdf
+Ключові терміни: ['Machine', 'Learning', '2019', 'Engineer,', 'Language']
+Ядро тексту: JOSHUA WHITE ASSISTANT SOFTWARE AND MACHINE LEARNING ENGINEER SKILLS Machine Learning, Software Developer, Software Engineering, ML Engineer, Model Building, Deep Learning, Numpy, Pandas, PySpark, Hadoop, Matplotlib, Keras, Tensorflow, TensorflowJS, AngularJS, Computer Vision, Natural Language Processing, HuggingFace, Data Wrangling, Scikit Learn, Algorithm Optimization.EDUCATION B.Tech(Electronics/Telecommunication) from IIIT D&M Kancheepuram, Chennai in 2019 OTHER ACTIVITIES Junior Engineer Award L&T Best Solution Provided L&TPROJECTS Summarizer of Executive Q&A using BERT. OnDevice Machine Learning using Tensoflow.PERSONAL PROFILE Associate software engineer specializing in Machine Learning models and Optimization
+Вода: Implemented Knowledge Graphs that helped SME's to retrieve factual information on various windmill parts. I work with both natural Language processing and computer vision in terms of Modelling and development
+Нудність тексту: 13.48%
+Стоп-слова: ['to', 'an', 'of', 'on', 'AND', 'from', 'with', 'and', 'I', 'in']
+Кількість слів: 141
+========================================
+
+========================================
+Файл: candidate_020.pdf
+Ключові терміни: ['Machine', 'Conversational', 'Cloud', 'Understanding', 'front']
+Ядро тексту: EXPERIENCE Tech Mahindra Associate System Engineer Intern, Feb 2020 - Ongoing Worked with Conversational AI and NLP to create a chatbot for on-website solutions for vendors using the service.EDUCATION B.Tech(ECE) SJU College, Karnataka, 2020ASSISTANT SYSTEM ENGINEER ACTIVITIES Cloud Infrastructure for advanced Computing. SKILLS Machine Learning, Cloud Architecture, Conversational AI, Natural Language Processing, Transformers, HuggingFace, RNN, LSTM, GRU
+Вода: AMELIA BAKER PROFILE Coercive and determined individual. I strive towards competency and improving myself
+Нудність тексту: 13.89%
+Стоп-слова: ['it', 'on', 'the', 'to', 'is', 'for', 'with', 'and', 'I', 'a']
+Кількість слів: 108
+========================================
+
+========================================
+Файл: candidate_021.pdf
+Ключові терміни: ['Data', 'Machine', 'Learning', 'Science', 'project']
+Ядро тексту: Modulated Data Engineering Transformer based Data Engineering to get deeper insights for future projects Introduction to data science in python Data visualization and Communication with TableauPROJECT OTHER QUALIFICATION. Machine Learning Engineering, Algorithm development, Python, Data Arbitration, Neural Networks, PyTorch, Pattern Regonition, Chatbot.ABOUT SKILLS Bot-assisted ticket Automation project Helps the customer very easily what his/her issue is
+Вода: I currently work as a Machine Learning Engineer and I want to keep exploring such opportunities. Also working both with the end of a project carefully understanding the diametrics and overall structure
+Нудність тексту: 19.88%
+Стоп-слова: ['an', 'the', 'of', 'as', 'to', 'for', 'from', 'with', 'and', 'I', 'And', 'a', 'in']
+Кількість слів: 161
+========================================
+
+========================================
+Файл: candidate_022.pdf
+Ключові терміни: ['Data', 'Machine', 'learning', 'Text', 'data']
+Ядро тексту: Data Analyst May 2019 to Till Date Working as a Data Analyst, I extracted the data and performed different data processing techniques, and deploy machine learning algorithms according to requirements. Daniel Lopez DATA ANALYST Executive Profile As a Data Analyst I always look into more innovative ways of finding figures and facts from data
+Вода: Ltd. Education B.Tech from Gujarat University in 2017 M.Tech from Vellore Institute of Technology in 2019
+Нудність тексту: 24.34%
+Стоп-слова: ['As', 'to', 'of', 'as', 'the', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 152
+========================================
+
+========================================
+Файл: candidate_023.pdf
+Ключові терміни: ['Data', 'data', 'Analysis,', 'Machine', 'Statistical']
+Ядро тексту: Currently experienced in Big data analytics as well as building pipelines for large scale data refining and Machine Learning applications. GABRIELLA JOHNSON ANALYST WORK EXPERIENCE AMZ Loans and Mortgages Analyst, Oct 2019 to till date Analyzing data warehouses for patterns and concluding solutions for vendor management for the firm
+Вода: ACADEMIC PROFILE B.Tech from Nagpur University in 2019EXECUTIVE SUMMARY I graduated with a degree in Electronics Engineering and I am a certified Data Analyst. I created pipelines to automate dataflow between database and point of requirement
+Нудність тексту: 21.54%
+Стоп-слова: ['to', 'the', 'of', 'as', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 130
+========================================
+
+========================================
+Файл: candidate_024.pdf
+Ключові терміни: ['Data', 'Machine', '(ECONOMICS)', 'FINANCE', 'MSC']
+Ядро тексту: HOME CREDIT INDIA FINANCE FINANCE TECHNOLOGY EXPERT NOV 2019 TO TILL DATE Identified patterns and trends in data sets containing transaction details and looking for anomalous behaviors and flagging fraudulent activities.LAYLA MOORE SKILLS Econometrics, Problem Solving, Data Analytics, Data Modeling, Data Validation, Data Reporting, Business Intelligence, Data Manipulation, Data Mining, Machine Learning, R Programming, SQL, Oracle, Scorecard, IFRS. PROJECTS Credit Fraud Detection using SVM.EXPERIENCE EDUCATION B.A (ECONOMICS) FROM SHAHEED BHAGAT SINGH COLLEGE (M), UNIVERSITY OF DELHI IN 2017 MSC (ECONOMICS) FROM INDIAN STATISTICAL INSTITUTE (ISI), DELHI IN 2019DATA SCIENCE AND FINTECH ADVISOR ACTIVITIES AND AWARDS GOLD MEDALIST MSC
+Вода: I have employed multiple Machine Learning algorithms for different usage throughout my service tenure. PROFILE Data Science practitioner and Finance Technology advisor
+Нудність тексту: 15.0%
+Стоп-слова: ['TO', 'IN', 'for', 'OF', 'AND', 'FROM', 'and', 'I', 'in']
+Кількість слів: 120
+========================================
+
+========================================
+Файл: candidate_025.pdf
+Ключові терміни: ['Data', 'data', 'HISTORY', 'Learning,', 'EDUCATIONAL']
+Ядро тексту: WYATT COOPER DATA STRATEGY AND DELIVERY SPECIALIST PROFESSIONAL PROFILE A quality-oriented professional with a keen interest in solving complex business problems by way of AI-based design & thinking. Drove a host of data science and development-related projects primarily for US- based companies and had undertaken numerous firm initiatives in areas such as time series, NLP, deep learning, and chatbot technology
+Вода: Data Strategy and Delivery Specialist, Jul 2020to Apr 2021Deloitte Consulting India Private Limited EDUCATIONAL HISTORY B.Tech JKG College, Nashik, 2018 MSc(Computational Economics) BSI, Bombay, 2020 Lucknow University. A technology-agnostic individual with a strong background in data science, statistics, and economics with an aim to accelerate artificial intelligence
+Нудність тексту: 13.42%
+Стоп-слова: ['an', 'to', 'of', 'the', 'as', 'AND', 'A', 'for', 'by', 'with', 'and', 'a', 'in']
+Кількість слів: 149
+========================================
+
+========================================
+Файл: candidate_026.pdf
+Ключові терміни: ['Machine', 'different', 'learning,', 'projects', '2018']
+Ядро тексту: EDUCATION B.Tech, Cummins College of Engineering, Pune in 2018 OTHER ACTIVITIES Junior Engineer Award L&T Best Solution Provided L&TPROJECTS Access and different bands of Radio frequency carrying different message bitrates.PERSONAL PROFILE Currently seeking opportunities as an Analyst as well as Machine Learning Engineer. As an individual I am always very keen to learn and show eagerness towards exciting opportunities.WORK BACKGROUND Tata Sons Analyst, Mar 2018 to Aug 2020 Worked on multiple projects related to home and office solutions based on embedded devices
+Вода: Worked on both hardware management and Software development side. AUDREY COLESON ANALYST AND MACHINE LEARNING ENGINEER SKILLS Data science, Deep learning, Neural networks, Artificial intelligence, Machine learning, Regression Analysis, Data structures, Embedded C, Microcontroller, Arduino, Network Management
+Нудність тексту: 20.89%
+Стоп-слова: ['at', 'an', 'to', 'of', 'as', 'As', 'on', 'AND', 'for', 'and', 'I', 'in']
+Кількість слів: 158
+========================================
+
+========================================
+Файл: candidate_027.pdf
+Ключові терміни: ['Data', 'data', 'Intelligence', '2019', 'Engineer,']
+Ядро тексту: Automation Engineer, Jul 2019 - Ongoing Automating Data flow and deriving machine learning solutions from them. CIS IT Services Data Engineer, Jun 2018 - May 2019 Understanding Client problems and constructing data driven solutions
+Вода: EXPERIENCE Kinsgley Co. GAVING WILSON PROFILE Passionate, motivated and highly conjugated towards a building mentality
+Нудність тексту: 12.73%
+Стоп-слова: ['at', 'the', 'IT', 'is', 'for', 'from', 'AND', 'with', 'and', 'a', 'in']
+Кількість слів: 110
+========================================
+
+========================================
+Файл: candidate_028.pdf
+Ключові терміни: ['Machine', 'am', 'worked', 'learning', 'Neural']
+Ядро тексту: ASI Technologies Intern, Dec 2020 - Ongoing Working as an intern to learn the usage of Neural Networks and machine learning for web applications. I am experienced in both machine learnig and deep learning and have worked on few collaborative projects on such
+Вода: TensorflowJS WorkshopPROJECT OTHER QUALIFICATION. Also worked with docker-based units for the deployment of applications
+Нудність тексту: 21.9%
+Стоп-слова: ['to', 'an', 'as', 'of', 'the', 'on', 'is', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 137
+========================================
+
+========================================
+Файл: candidate_029.pdf
+Ключові терміни: ['Machine', 'model', 'E', 'data', 'can']
+Ядро тексту: Education B.Tech(Metallurgy) CIT, Calicut, 2019. Eli Scott F R E S H E R Executive Profile Seeking challenging opportunity in the field of data science and data analytics where I can utilize my skills and knowledge to contribute for the growth of the organization Other Activities Python Machine Learning Udacity Projects Prediction model which can predict the impact of the incident raised by the customer.Skills Python, MySQL, Tensorflow, Keras, Machine Learning, Deep Learning.Work Experience JP Chand and Co Intern , May 2020 - Oct 2020 Trained as a Python developer and machine learning model builder
+Вода: Eli Scott F R E S H E R Executive Profile Seeking challenging opportunity in the field of data science and data analytics where I can utilize my skills and knowledge to contribute for the growth of the organization Other Activities Python Machine Learning Udacity Projects Prediction model which can predict the impact of the incident raised by the customer.Skills Python, MySQL, Tensorflow, Keras, Machine Learning, Deep Learning.Work Experience JP Chand and Co Intern , May 2020 - Oct 2020 Trained as a Python developer and machine learning model builder. Education B.Tech(Metallurgy) CIT, Calicut, 2019
+Нудність тексту: 18.95%
+Стоп-слова: ['to', 'the', 'of', 'as', 'for', 'by', 'and', 'I', 'a', 'in']
+Кількість слів: 95
+========================================
+
+========================================
+Файл: candidate_030.pdf
+Ключові терміни: ['Machine', 'Learning', 'recognition', 'Learning,', 'Bangalore,']
+Ядро тексту: ACADEMIC PROFILE B.Tech(IT) PES University, Bangalore, 2019EXECUTIVE SUMMARY I am a software developer and analyst professional working for a year with client side technology and Machine Learning product delivery. ADRIAN LOPEZ SOFTWARE DEVELOPER & ANALYST ML WORK EXPERIENCE AT&C Solutions Software Developer ML, Mar 2019 - Ongoing Contributed to pixel recognition using MaskRCNN from clientele pictures to determine forgery
+Вода: EXTRA-CURRICULARS Applied Machine Learning Course. Developed image recognition for parts of a vehicle on an assembly line
+Нудність тексту: 13.49%
+Стоп-слова: ['to', 'on', 'of', 'an', 'the', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 126
+========================================
+
+========================================
+Файл: candidate_031.pdf
+Ключові терміни: ['production', 'using', 'Machine', 'Analytics,', 'Language']
+Ядро тексту: PROFILE An avid explorer of analytics in multiple facets pertaining to production industry and have applied various Machine Learning Algorithms. MAHINDRA LTD ASSISTANT ANALYST, 2019 - TILL DATE Analyzed various production components' data and built models that are focused on production equipments and their refinement.KIMBERLY DAVIS SKILLS Data Analytics, Natural Language Processing, Production Engineering, Production Analytics, Tableau, Machine Learning, Python, NLTK
+Вода: I am also very well acquainted with Natural Language Processing using Python. PROJECTS Price Forecasting using Time Series Analysis Major Grapes exporting Dealer Classification using Logistic RegressionEXPERIENCE EDUCATION B.TECH(ELECTRICAL AND ELECTRONICS) FROM SMV INSTITUTE OF TECHNOLOGY, 2019DATA ANALYST AND ENGINEER ACTIVITIES AND AWARDS GOOGLE ANALYTICS FOR BEGINNERS
+Нудність тексту: 12.96%
+Стоп-слова: ['FOR', 'to', 'on', 'of', 'AND', 'OF', 'with', 'FROM', 'and', 'I', 'An', 'in']
+Кількість слів: 108
+========================================
+
+========================================
+Файл: candidate_032.pdf
+Ключові терміни: ['Data', 'University', 'Machine', 'multiple', 'medical']
+Ядро тексту: Over Time I was able to build multiple scalable solutions for agro as well as medical associations. The key areas of focus during this time was on Machine Learning based business attunement methods, along with the handling of large-scale data systems
+Вода: Medical Identification of Cellular Disconfiguration.. P R O J E C T S A web-based Application to determine soil moisture using attention mechanism
+Нудність тексту: 22.34%
+Стоп-слова: ['an', 'As', 'of', 'on', 'the', 'to', 'as', 'for', 'from', 'AND', 'A', 'with', 'The', 'and', 'I', 'a', 'in']
+Кількість слів: 188
+========================================
+
+========================================
+Файл: candidate_033.pdf
+Ключові терміни: ['Machine', 'Using', 'have', 'Text', 'NLP.']
+Ядро тексту: I want to join a firm as a Machine Learning engineer as it will broaden the scope and opportunities to learn more about the domain.WORK BACKGROUND General Electric (GE) Healthcare Data Scientist, Feb 2020 to Ongoing Delivered on a Customer Sentiment Analysis Project using NLP. OCR for Pictographic Languages.PERSONAL PROFILE As an associate software and project manager I have completed and contributed to Machine Learning projects focused on NLP
+Вода: Tata Metaliks Ltd. From collecting and refining data to building and deploying the final model I have had my experience in all
+Нудність тексту: 22.22%
+Стоп-слова: ['it', 'As', 'an', 'to', 'on', 'From', 'the', 'as', 'for', 'AND', 'and', 'I', 'a', 'in']
+Кількість слів: 162
+========================================
+
+========================================
+Файл: candidate_034.pdf
+Ключові терміни: ['Computer', 'Machine', '-', 'Learning', 'Image']
+Ядро тексту: MADELYN MILNER PROFILE Skilled Machine Learning and Deep Learning practitioner, and I have worked on Computer vision- based projects. I took part from data funneling to the final stages of evaluation and deployment, making sure that the model was service- ready and also do Proof-of-Concepts Evaluation for future projects.EDUCATION B.Tech(Computers) from JT University, Kanchipuram, 2020COMPUTER VISION ENGINEER ACTIVITIES OpenCV made Easy - PyImageSearch Throttle into the world of Machine Learning - Workshop by H2O.aiPROJECTS Detecting Snake Breeds Estimation of Infection based on Skin granulation.
+Вода: EXPERIENCE Brane Enterprises Pvt LTD Computer Vision Engineer, Jan 2020 - Ongoing Core responsibilities included building Computer vision solutions for clients. On the lookout for opportunities that help me understand more about the domain.SKILLS Machine Learning, Deep Learning, Computer Vision, Pattern Recognition, Image Processing, Image Segmentation, Python, Ruby, PILLOW, OpenCV
+Нудність тексту: 20.9%
+Стоп-слова: ['on', 'the', 'to', 'of', 'for', 'from', 'by', 'and', 'I', 'On']
+Кількість слів: 134
+========================================
+
+========================================
+Файл: candidate_035.pdf
+Ключові терміни: ['Software', 'Knowledge', '2018', 'machine', '-']
+Ядро тексту: Python, Scikit Learn, Keras, Tensorflow, Object Oriented Programming, Machine Learning, Software Engineering, Application Development.ABOUT SKILLS Intelligent Disease Recognition using Cause Pair Extraction Understanding Neural Networks - Nanyang University PROJECT OTHER QUALIFICATION. CISCO Software Developer and Analyst Trainee OCT 2018 - May 2019 Developed Async Functions to connect ML Applications and databases of clients
+Вода: Masters in machine learning. Sound Knowledge of python, scikit learn and keras
+Нудність тексту: 11.65%
+Стоп-слова: ['to', 'of', 'for', 'and', 'in']
+Кількість слів: 103
+========================================
+
+========================================
+Файл: candidate_036.pdf
+Ключові терміни: ['Machine', 'Open', '2019', 'Deep', 'Regression,']
+Ядро тексту: James May FRESHER SOFTWARE DEVELOPER ENGINEER Executive Profile Graduate with a niche towards Deep Learning. Other Activities Tensorflow Developer Certificate Projects Building an Image based recommender system by extracting features from a given image using pre-trained networks.Skills Data Structures, Logistic Regression, Linear Regression, Machine Learning, Algorithms, Deep Learning, GIT, Open Source, Neural Networks, CNN, DNN, ANN, RNN, Keras, Tensorflow.Work Experience GZN Solution Intern, Apr 2019 - Dec 2019 Worked as an SDE intern on building End to End Applications that leveraged Machine Learning for improved results suggestions
+Вода: When not working I like to climb the Elo ladder. Open Source Contributor and an avid chess player
+Нудність тексту: 9.73%
+Стоп-слова: ['an', 'to', 'the', 'as', 'on', 'for', 'from', 'by', 'with', 'and', 'I', 'a']
+Кількість слів: 113
+========================================
+
+========================================
+Файл: candidate_037.pdf
+Ключові терміни: ['Machine', 'Learning', 'Deep', 'Data', 'been']
+Ядро тексту: PROJECTS Digital Automation Profiling using Machine Learning EXTRA-CURRICULARS A Gentle Introduction to Deep Learning Using Keras Machine Learning A-Z™: Hands- On Python & R In Data Science Deep Learning: Advanced NLP and RNNs. NAOMI JACKSON JUNIOR SDE-MACHINE LEARNING WORK EXPERIENCE HCL Junior SDE(Data and Machine Learning), May 2019 - Ongoing Developed key aspects of a model that was used to Understand Local Dravidian Languages and Translate them as accurately to English
+Вода: Exploring data and the different interpretation it can have is what amazes me. Currently interested Machine Learning developer and engineer roles
+Нудність тексту: 11.85%
+Стоп-слова: ['In', 'it', 'to', 'the', 'of', 'as', 'is', 'A', 'and', 'I', 'a', 'On']
+Кількість слів: 135
+========================================
+
+========================================
+Файл: candidate_038.pdf
+Ключові терміни: ['Data', 'using', 'flair', 'proactive', 'Machine']
+Ядро тексту: JP INFORMATICS INTERN, FEB 2020-OCT 2020 Creating Customer Engagement Module for online vendors, utilizing database management, recommender system and data cleaning.JONAS NIELSEN SKILLS Data Analytics, Artificial Intelligence, Data Visualization, Machine Learning, Python, Data Wrangling, Featurization, Heuristics, Data Structures.. PROJECTS Price Forecasting using Time Series Analysis Major Grapes exporting Dealer Classification using Logistic RegressionEXPERIENCE EDUCATION B.TECH (ELECTRONICS AND COMMUNICATION) FROM PUNJABI UNIVERSITY, PATIALA IN 2019FRESHER ACTIVITIES AND AWARDS GOOGLE ANALYTICS FOR BEGINNERS
+Вода: PROFILE A proactive learner with a flair for adopting emerging technologies to address industry requirements and achieve organizational objectives & profitability norms. PROJECTS Price Forecasting using Time Series Analysis Major Grapes exporting Dealer Classification using Logistic RegressionEXPERIENCE EDUCATION B.TECH (ELECTRONICS AND COMMUNICATION) FROM PUNJABI UNIVERSITY, PATIALA IN 2019FRESHER ACTIVITIES AND AWARDS GOOGLE ANALYTICS FOR BEGINNERS
+Нудність тексту: 7.53%
+Стоп-слова: ['FOR', 'to', 'IN', 'for', 'A', 'AND', 'with', 'FROM', 'and', 'a']
+Кількість слів: 93
+========================================
+
+========================================
+Файл: candidate_039.pdf
+Ключові терміни: ['Statistical', 'Analysis,', 'HISTORY', 'Business', 'Natural']
+Ядро тексту: NICOLE BREWER POST GRADUATE BUSINESS ANALYST PROFESSIONAL PROFILE Post Graduate Analyst experienced in Business Management and Statistical Analysis. PROFICIENT SKILLS Data Analysis, Business Analysis, Statistical Analysis, Regression Analysis, Natural Language Processing, Machine Learning, Numerical Analysis.EMPLOYMENT HISTORY Leveraged NLP, ML and Amazon comprehend medical API to predict patient diseases, severity, frequency, Statistical Analyst, Jan 2020 to Oct 2020BVB EDUCATIONAL HISTORY BSc Statistics 2018, IISc MSc Data Analysis and Statistical Computation 2020, IIIT BangaloreACHIEVEMENTS AND EXTRA CURRICULARS Tableau CA Certification - 2020 Natural Learning Processing P R O J E C T S Understanding emotion from text.
+Вода: I have a very good grasp on finding the best solution for a business and applying them. PROFICIENT SKILLS Data Analysis, Business Analysis, Statistical Analysis, Regression Analysis, Natural Language Processing, Machine Learning, Numerical Analysis.EMPLOYMENT HISTORY Leveraged NLP, ML and Amazon comprehend medical API to predict patient diseases, severity, frequency, Statistical Analyst, Jan 2020 to Oct 2020BVB EDUCATIONAL HISTORY BSc Statistics 2018, IISc MSc Data Analysis and Statistical Computation 2020, IIIT BangaloreACHIEVEMENTS AND EXTRA CURRICULARS Tableau CA Certification - 2020 Natural Learning Processing P R O J E C T S Understanding emotion from text.
+Нудність тексту: 14.29%
+Стоп-слова: ['on', 'the', 'to', 'for', 'AND', 'from', 'and', 'I', 'a', 'in']
+Кількість слів: 112
+========================================
+
+========================================
+Файл: candidate_040.pdf
+Ключові терміни: ['Machine', 'large', 'Developer', 'Software', 'SRD']
+Ядро тексту: Also well acquainted with the norms of Python development.WORK BACKGROUND SRD Insitute Developer Engineer, Dec 2020 to Ongoing Developed a prediction model to verify the claims lodged by customer.. ETHAN GARCIA FRESHER DEVELOPER ENGINEER SKILLS C++, Python, C, Software Developer, Prediction Modelling, Machine Learning.EDUCATION B.Tech (Computers) from National Institute of Technology (NIT), Hamirpur in 2020PERSONAL PROFILE Fresher, working as a Software Developer and interested in Machine Learning Roles
+Вода: Familiar with how large scale models are built and data processing is done for large amounts of data. ETHAN GARCIA FRESHER DEVELOPER ENGINEER SKILLS C++, Python, C, Software Developer, Prediction Modelling, Machine Learning.EDUCATION B.Tech (Computers) from National Institute of Technology (NIT), Hamirpur in 2020PERSONAL PROFILE Fresher, working as a Software Developer and interested in Machine Learning Roles
+Нудність тексту: 13.95%
+Стоп-слова: ['to', 'the', 'of', 'as', 'is', 'for', 'from', 'by', 'with', 'and', 'a', 'in']
+Кількість слів: 86
+========================================
+
+========================================
+Файл: candidate_041.pdf
+Ключові терміни: ['Embedded', 'Management,', 'Fresher', 'Machine', 'Defect']
+Ядро тексту: WORK EXPERIENCE EDUCATIONAVERY JACOBS FRESHER SYSTEM DEVELOPER Fresher with excellent communication, good analyzing, and problem-solving skills. Strong C, C++ coding background and well informed in OOPs concepts
+Вода: Face detection. B.Tech (Electronics) from Manipal University in 2021
+Нудність тексту: 9.8%
+Стоп-слова: ['at', 'to', 'an', 'of', 'for', 'from', 'with', 'and', 'a', 'in']
+Кількість слів: 102
+========================================
+
+========================================
+Файл: candidate_042.pdf
+Ключові терміни: ['-', 'Machine', 'learning', '2019', 'Software']
+Ядро тексту: Would like to join any firm as a software developer in machine learning projects. Other Activities Machine learning - Stanford University SAP Fundamentals - Arjuvo Limited Projects Classification of Cassava LeavesSkills Machine Learning, Software Engineering, Python, Java, SAP,C programmingWork Experience Accenture Software Developer, Apr 2019 - Dec 2020 Worked on multiple projects that dealt with system frame development and solution supply
+Вода: Education B.Tech Computer Science From JNTU, 2019. When it comes to coding I always try to be be well informed about the technology and its application
+Нудність тексту: 12.62%
+Стоп-слова: ['it', 'to', 'the', 'as', 'of', 'on', 'From', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 103
+========================================
+
+========================================
+Файл: candidate_043.pdf
+Ключові терміни: ['Data', 'Machine', 'Text', 'Big', 'Language']
+Ядро тексту: I have also worked on Big Data Analytics using hadoopSKILLS Machine learning, Data science, PowerBI, Data visualisation, Data Mining, Data Modelling, Data Extraction, Text Analysis, Natural Language Processing. EXPERIENCE Invictus Qualis Big Data Analysis and Prediction Nov 2019 to Till date Residual Normality, identification, and extraction of knowledge-based results from text reports.EDUCATION B.Tech JIoT Belemundi, 2019DATA ENGINEER - NATURAL LANGUAGE PROCESSING ACTIVITIES SQL Made Easy - Dome Enterprises Data science and Machine learning with Python.PROJECTS Univariate, Bi-variate, and multi variance analysis & outlier treatment of text report.
+Вода: STACEY BELARNY PROFILE Data Engineer who is experienced with Text Analytics and Natural Language Processing. EXPERIENCE Invictus Qualis Big Data Analysis and Prediction Nov 2019 to Till date Residual Normality, identification, and extraction of knowledge-based results from text reports.EDUCATION B.Tech JIoT Belemundi, 2019DATA ENGINEER - NATURAL LANGUAGE PROCESSING ACTIVITIES SQL Made Easy - Dome Enterprises Data science and Machine learning with Python.PROJECTS Univariate, Bi-variate, and multi variance analysis & outlier treatment of text report.
+Нудність тексту: 22.55%
+Стоп-слова: ['on', 'to', 'of', 'is', 'from', 'with', 'and', 'I']
+Кількість слів: 102
+========================================
+
+========================================
+Файл: candidate_044.pdf
+Ключові терміни: ['Data', 'Machine', 'NLP', 'different', 'Developer,']
+Ядро тексту: LEAH ATKIN JUNIOR DEVELOPER WORK EXPERIENCE TRDDC Junior Developer, Jan 2019- till date Understanding different network-based inference cases and clustering them based on user traffic and choices.. ACADEMIC PROFILE B.Tech NIT Jaipur 2019EXECUTIVE SUMMARY A python programmer, currently pursuing Data science and looking for roles that involve the application of Machine Learning
+Вода: I am always excited to take on real life problems and tread through different technology stacks. PERSONAL SKILLS Python Developer, Django, Flask, Data Science, Spark, PySpark, Machine Learning, Data Modelling, Natural language Processing, SVM, Computer Vision, Neural Networks.
+Нудність тексту: 11.01%
+Стоп-слова: ['on', 'the', 'of', 'to', 'for', 'A', 'and', 'I', 'in']
+Кількість слів: 109
+========================================
+
+========================================
+Файл: candidate_045.pdf
+Ключові терміни: ['Machine', 'data', 'DESIGN', 'PYTHON', 'Numpy.']
+Ядро тексту: VW TECHNOLOGY DESIGN ENGINEER, JAN 2018 - NOV 2020 Working with Automotive design department to collect data on various aerodynamic parts and then simulate the results using MLLANDO BARRIER SKILLS Machine Learning, Logistic Regression, Business Analysis, Python, SQL, Pandas, Numpy. PROJECTS Max Limit Prediction for a Fault Tolerance Model for a Using PythonEXPERIENCE EDUCATION B.TECH(MECHANICAL) SPSC COLLEGE, GURGAON, 2019DATA AND DESIGN ENGINEER ACTIVITIES AND AWARDS PYTHON 101 FOR DATA SCIENCE MACHINE LEARNING WITH PYTHON
+Вода: PROFILE Young Aspirant looking for roles in data science, analytics and Machine Learning. PROJECTS Max Limit Prediction for a Fault Tolerance Model for a Using PythonEXPERIENCE EDUCATION B.TECH(MECHANICAL) SPSC COLLEGE, GURGAON, 2019DATA AND DESIGN ENGINEER ACTIVITIES AND AWARDS PYTHON 101 FOR DATA SCIENCE MACHINE LEARNING WITH PYTHON
+Нудність тексту: 10.34%
+Стоп-слова: ['FOR', 'to', 'on', 'the', 'for', 'AND', 'WITH', 'with', 'and', 'a', 'in']
+Кількість слів: 87
+========================================
+
+========================================
+Файл: candidate_046.pdf
+Ключові терміни: ['NLP', 'Machine', 'am', 'Text', 'XLNet,']
+Ядро тексту: PROFICIENT SKILLS Machine Learning, Natural Language Processing, Deep Learning, Sentiment Analysis, Python, NLTK, BeRT, GPT, XLNet, Text Analysis, Text Extraction, OCR.EMPLOYMENT HISTORY As a part of the NLP development team, I took part in building different pipelines training and evaluation of different textual data. HOWARD GOODMAN FRESHER AND NLP ENGINEER PROFESSIONAL PROFILE I am a fresher who absolutely loves working on anything vaguely related to Machine Learning
+Вода: I have also worked on data exploration. I am well acquainted with using State-of-the-art NLP models like Bert, XLNet, and GPT-2
+Нудність тексту: 18.52%
+Стоп-слова: ['on', 'to', 'As', 'of', 'the', 'AND', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 135
+========================================
+
+========================================
+Файл: candidate_047.pdf
+Ключові терміни: ['Face', 'identities', 'want', 'Machine', 'am']
+Ядро тексту: I have previously worked on some corporate models and due to its intricacies I want to explore more in the domain.WORK BACKGROUND XcelSior SDE , May 2019 - Till date Used unsupervised learning algorithms like DBSCAN to identify new identities in the system. CAROLIN BANKS SOFTWARE DEVELOPER SKILLS C++, Python, Firebase, Flutter, Tensorflow, Pandas, Numpy, Kotlin, Java, MongoDB, NoSQL.EDUCATION B.Tech (Computers) from National Institute of Technology (NIT), Hamirpur in 2020PERSONAL PROFILE I am a software engineer, and I want to work on full time roles associated with Machine Learning
+Вода: OTHER ACTIVITIES B.Tech(Metallurgy) CIT, Calicut, 2019PROJECTS Face Recognition system. Enhanced this setup by implementing the K-Means algorithm as well
+Нудність тексту: 16.39%
+Стоп-слова: ['to', 'on', 'of', 'the', 'as', 'from', 'by', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 122
+========================================
+
+========================================
+Файл: candidate_048.pdf
+Ключові терміни: ['Machine', 'looking', '2020', 'am', 'model']
+Ядро тексту: Absolutdata Research & Analytics Machine Learning Intern, Jan 2020 to Till Date Implemented a research paper by Shang Huan on EMD algorithm for time series forecasting by creating a hybrid model using Empirical Mode Decomposition and Long Short Term Memory Neural Networks. B.Tech(Computers) from Inderprastha Engineering College Ghaziabad in 2020 WORK EXPERIENCE EDUCATIONBRYCE WALKER FRESHER MACHINE LEARNING ENGINEER As a recent graduate, I am looking for roles that challenge me and feed my craving for learning
+Вода: To cluster Quality of vegetables based on size, color and produce time.PROJECT OTHER QUALIFICATION. I can easily adapt to new technologies, understand and work with a variety of people, and always looking to solving business problems in much more technology sophisticated ways
+Нудність тексту: 14.93%
+Стоп-слова: ['on', 'to', 'As', 'of', 'for', 'from', 'by', 'with', 'and', 'I', 'a', 'To', 'in']
+Кількість слів: 134
+========================================
+
+========================================
+Файл: candidate_049.pdf
+Ключові терміни: ['based', 'Advanced', 'data', 'Retail', 'Analysis,']
+Ядро тексту: Other Activities SIX-SIGMA, GREEN BELT Certification Advanced Excel IT Project Management Marketing and Retail Analytics - Advanced Statistics for Data Science Advanced Sales Analytics for Decision Making Using PowerBI Projects Customer Satisfaction index using NLP Comparison Approach. Currently experience in providing solutions based on retail analysis and business intelligence
+Вода: Jade Roberts JUNIOR ANALYST Executive Profile I like to explore data and use analytics to provide a larger insight to data and its derivatives. Insurance sector satisfaction of customers based on remark based scalling.Skills Business Intelligence, Market Analysis, Statistical Analysis, Data Science, Retail Analytics, IBM SPSS, Python, Tableau, Power Bi.Work Experience IRRM International Junior Analyst Expert, Feb 2020 to Oct 2020 Worked as a remote analyst on company production, expenditure, and investment Education B.Tech(Computer Science) SRM IT, Chennal 2021
+Нудність тексту: 16.41%
+Стоп-слова: ['to', 'on', 'of', 'IT', 'as', 'for', 'and', 'I', 'a', 'in']
+Кількість слів: 128
+========================================
+
+========================================
+Файл: candidate_050.pdf
+Ключові терміни: ['Deep', 'Learning', 'Machine', 'LEARNING', '-']
+Ядро тексту: MASON MARKINOV PROFILE Data Scientist, expertise in Machine Learning and Deep Learning. SKILLS Machine learning, Data Science, Deep Learning, Decision Trees, Random Forest, XGBoost, CATBoost, Classification, Regression, Scikit Learn, Numpy, Pandas, OpenCV, Python, Matplotlib, Loss Optimization EXPERIENCE TML Infotech Junior Machine Learning And Deep Learning Engineer, Mar 2019 - till date Creating models for clients based on large datasets collected w.r.t client requirement..EDUCATION B.Tech(CSE) Raja Birsimbal College, Ranchi, 2019JUNIOR MACHINE LEARNING AND DEEP LEARNING ENGINEER ACTIVITIES Deep Learning Specialization - DeepLearning.aiPROJECTS Limit Testing using KNN and HMM.
+Вода: I am also well acquainted with standard industry methods and libraries. SKILLS Machine learning, Data Science, Deep Learning, Decision Trees, Random Forest, XGBoost, CATBoost, Classification, Regression, Scikit Learn, Numpy, Pandas, OpenCV, Python, Matplotlib, Loss Optimization EXPERIENCE TML Infotech Junior Machine Learning And Deep Learning Engineer, Mar 2019 - till date Creating models for clients based on large datasets collected w.r.t client requirement..EDUCATION B.Tech(CSE) Raja Birsimbal College, Ranchi, 2019JUNIOR MACHINE LEARNING AND DEEP LEARNING ENGINEER ACTIVITIES Deep Learning Specialization - DeepLearning.aiPROJECTS Limit Testing using KNN and HMM.
+Нудність тексту: 13.27%
+Стоп-слова: ['on', 'for', 'AND', 'with', 'and', 'I', 'And', 'in']
+Кількість слів: 98
+========================================
+
+========================================
+Файл: candidate_051.pdf
+Ключові терміни: ['Machine', 'that', 'Natural', 'Learning', 'Language']
+Ядро тексту: PROJECTS Movie Recommendation System Natural Language Processing Loan Approval System EXTRA-CURRICULARS Machine Learning - Py-Thonist Big Data Analytics. ACADEMIC PROFILE B.Tech(Computers) from KCCE University in 2019EXECUTIVE SUMMARY Recently graduated fresher experienced in Machine Learning and Natural Language Processing looking for roles that involve projects in the same
+Вода: PERSONAL SKILLS Python Programming, Machine Learning, Natural language Processing, Numpy, NLTK, Text Analysis, Transformers, Series Analysis, Conversational AI. Machine Learning Developer(NLP), Apr 2019 - till date Modelled an analytics-based recommender engine that used user text along with search and suggested the best possible products that they might be interested in
+Нудність тексту: 16.98%
+Стоп-слова: ['an', 'the', 'for', 'from', 'with', 'and', 'in']
+Кількість слів: 106
+========================================
+
+========================================
+Файл: candidate_052.pdf
+Ключові терміни: ['SCIENCE', 'data', 'JOSEPHS', 'based', 'Analysis,']
+Ядро тексту: CRISON GLOBAL SERVICE INTERN, JAN 2021 TO TILL DATE Analysis of customer satisfaction based on any new offer/product introduced by chain networks and designing models and building them based on the analyzed data to help vendors and franchise owners easy decisions.BRAXTON PARKER SKILLS Data Science, Analysis, Machine Learning, Bounding Algorithms, Heuristics, ANN, Decision Trees, SVM, Hypothesis Analysis, Optimization. Text Summarization with NLP in Python.EXPERIENCE EDUCATION B.SC (COMPUTER SCIENCE ENGINEERING) FROM ST JOSEPHS COLLEGE OF ARTS AND SCIENCE BENGALURU IN 2019 M.SC (DATA SCIENCE) FROM ST JOSEPHS COLLEGE OF ARTS AND SCIENCE BENGALURU IN 2021DATA SCIENTIST ACTIVITIES AND AWARDS HANDS ON MACHINE LEARNING TECHNIQUES
+Вода: PROJECTS Voice assisted service desk using google dialogue flow. PROFILE I would like to introduce myself as an applicant for the data scientist role
+Нудність тексту: 19.11%
+Стоп-слова: ['the', 'OF', 'AND', 'ON', 'in', 'an', 'as', 'and', 'on', 'of', 'IN', 'for', 'with', 'I', 'to', 'TO', 'from', 'by', 'FROM']
+Кількість слів: 157
+========================================
+
+========================================
+Файл: candidate_053.pdf
+Ключові терміни: ['Data', 'data', 'Machine', 'Research', 'HISTORY']
+Ядро тексту: PROFICIENT SKILLS Data Science, Data Analysis, Data Structures, Data Warehousing, Data Visualization, Data Mining, Machine Learning, Artificial Intelligence, Linear Regression, MongoDB, Python, Django, Java, SQL, C++.EMPLOYMENT HISTORY Building data pipeline to clean, analyze and visualize data from large data warehouses and then feeding them to a large-scale determination engine model.Junior Research Fellow, Jul 2019 to Apr 2020 Impiger Technologies EDUCATIONAL HISTORY B.Tech(Computers) from Anna University in 2019 Master's Diploma (Analytics And Artificial Intelligence) from Imarticus Learning in 2021ACHIEVEMENTS AND EXTRA CURRICULARS Research Fellowship P R O J E C T S Unit Scanner Using Prediction mechanism.. PENELOPE TORRES GRADUTE RESEARCH FELLOW PROFESSIONAL PROFILE Passionate Data Engineer with a zeal to excel forward and produce promising outcomes
+Вода: In search of a role where I can nurture my skills and contribute to the growth of the company and myself. Hands-on knowledge in various Machine Learning Algorithms
+Нудність тексту: 21.57%
+Стоп-слова: ['In', 'to', 'the', 'of', 'AND', 'from', 'with', 'and', 'I', 'And', 'a', 'in']
+Кількість слів: 153
+========================================
+
+========================================
+Файл: candidate_054.pdf
+Ключові терміни: ['Machine', 'comments', 'problems', 'learning', 'news']
+Ядро тексту: SETH HALL DATA SCIENTIST AND DEVELOPER SKILLS Data Scientist, Machine Learning, Python, Big Data, SQL, PySpark, Scala, Hive, Scikit Learn, Pandas, Matplotlib, Natural Language Processing, Transformers, BERT.EDUCATION B.tech (ECE) LPU, Chandigarh, 2019PERSONAL PROFILE I am Data science enthusiast focused on solving complex problems using machine learning techniques. WORK BACKGROUND NeuraTech Developer, Mar 2019 - till date Using BERT we designed a model which captured the users comments on news websites and calculated the reaction based on those comments to a news article
+Вода: I try to simplify problems and attack them head on. Always working and striving to be better solution finder
+Нудність тексту: 14.41%
+Стоп-слова: ['on', 'to', 'the', 'AND', 'and', 'I', 'a']
+Кількість слів: 111
+========================================
+
+========================================
+Файл: candidate_055.pdf
+Ключові терміни: ['data', 'Text', 'them', 'Image', 'Processing,']
+Ядро тексту: Also trained in creating data pipelines and deplyoing them on cloud platforms like AWS and Azure. HS Institute TRAINEE, MAY 2019-OCT 2019 Created data pipelines for pre-trained models in order to make them learn from new data and coalesce with our demands
+Вода: PROJECT OTHER QUALIFICATION. Data Science with Scikit-Learn
+Нудність тексту: 14.29%
+Стоп-слова: ['to', 'on', 'of', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 105
+========================================
+
+========================================
+Файл: candidate_056.pdf
+Ключові терміни: ['data', 'Data', 'Machine', 'work', 'Analysis,']
+Ядро тексту: Christian Von Kelin JUNIOR ANALYST Executive Profile As a junior analyst I currently work with data preprocessing and data cleaning before sending them to Machine Learning Models. I am also simultaneously training to be a machine learning engineer to work closely with teams that build models and would like to join a venture for such opportunity
+Вода: Education B.Tech from AMN College of Engineering, Hosiyarpur in 2020. Other Activities Data Analysis - Python Projects Time-series Forecasting Identifying Phished WebsiteSkills Data Analysis, Tableau, PowerBI, R, Python, Statistical Analysis, L1 L2 Regression, Machine Learning.Work Experience R&M Solutions Data Analyst Intern, Dec 2019 - Mar 2020 My role as a data analyst was to provide insights and important trends inside the company and it's clients' data to measure out the best possible way in which profitability could be maintained
+Нудність тексту: 20.0%
+Стоп-слова: ['As', 'to', 'as', 'the', 'of', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 135
+========================================
+
+========================================
+Файл: candidate_057.pdf
+Ключові терміни: ['IIT', 'more', 'Artificial', 'Machine', 'Kharagpur,']
+Ядро тексту: EXPERIENCE IIT Labs Associate Researcher, May 2019 - till date Worked as an Artificial Intelligence Researcher in IIT for more than a year developing and working on SoTA models and tuning them for publications purposes.EDUCATION B.Tech IIT Kharagpur, 2017 M.Tech IIT Kharagpur, 2019GRADUATE RESEARCHER ACTIVITIES PyTorch Developer - Pytorch AcademyPROJECTS Image Captioning Sentiment Analysis Visualization using Principle component analysis. The kind of problems AI can solve, fills me with enthusiasm to learn more and contribute more
+Вода: SKILLS Data Science, Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence, Python, MATLAB, NLP, Computer Vision, Keras, Pytorch, RNN, Keras. MAYA HAYDEN PROFILE I'm passionate learner with a knack for Artificial Intelligence
+Нудність тексту: 18.55%
+Стоп-слова: ['to', 'an', 'of', 'as', 'on', 'for', 'with', 'The', 'and', 'I', 'a', 'in']
+Кількість слів: 124
+========================================
+
+========================================
+Файл: candidate_058.pdf
+Ключові терміни: ['Data', '2019', 'Regression,', 'Electronics)', 'theft']
+Ядро тексту: SEBASTIAN GOLER ASSOCIATE DATA MANAGER WORK EXPERIENCE iNyra Nursing Home Associate Medical Analyst, Jul 2019 to Oct 2020 Processed medical records to prescribe faster and efficient ways of patient healthcare Caribo Hotels & Casinos Junior Data Engineer, Dec 2018 to May 2019 Worked on data of casino to predict theft and compensate for safety measures. PERSONAL SKILLS Data Analysis, Data Analytics, Linear Regression, Logistic Regression, Predictive Modeling, Business Analytics.
+Вода: ACADEMIC PROFILE B.Tech(Electrical and Electronics) HiiT College, Goa in 2019EXECUTIVE SUMMARY Competent, Determined and hardworking Individual with a goal oriented mentality. PERSONAL SKILLS Data Analysis, Data Analytics, Linear Regression, Logistic Regression, Predictive Modeling, Business Analytics.
+Нудність тексту: 12.22%
+Стоп-слова: ['on', 'to', 'of', 'for', 'with', 'and', 'a', 'in']
+Кількість слів: 90
+========================================
+
+========================================
+Файл: candidate_059.pdf
+Ключові терміни: ['data', 'predictive', 'UNDERSTANDING', 'Networks', 'SKILLS']
+Ядро тексту: Experienced in predictive modeling, data visualization and machine learning to solve business problems. DENA FUNDS BUSINESS ANALYST, APR 2020 - TILL DATE Handling Business decision with predictive data analysis and large scale data handling.LYDIA WOODS SKILLS R, Python, Tableau, Power BI, SQL, SAS, Deep Learning, Neural Networks and Artificial Intelligence
+Вода: PROFILE An eclectic researcher, with adept creativity in mobilizing thoughts to words. Data analyst with a strong background in mathematics and computer science
+Нудність тексту: 11.83%
+Стоп-слова: ['to', 'IS', 'AND', 'with', 'and', 'a', 'An', 'in']
+Кількість слів: 93
+========================================
+
+========================================
+Файл: candidate_060.pdf
+Ключові терміни: ['Machine', 'data', 'who', 'HISTORY', 'knowledge']
+Ядро тексту: Performed ML modeling to predict order milestone duration and milestone SLA duration along with data extraction from source system, feature generation for modeling, orchestration and deployments of models in various environments.Machine Learning Engineer, Dec 2019 to Till Date Tata Consultancy Services EDUCATIONAL HISTORY B.Tech(Electronics/Telecommunication) from SSGM, Maharashtra in 2017. OWEN SHAW MACHINE LEARNING ENGINEER PROFESSIONAL PROFILE Machine Learning engineer who has worked on multiple projects with knowledge in big data handling and business analytics
+Вода: As someone who is always learning, I would love to use my knowledge to provide the best solutions. EMPLOYMENT HISTORY Implemented fallout predictions for order milestones using NLP and statistical approach
+Нудність тексту: 16.79%
+Стоп-слова: ['As', 'on', 'to', 'the', 'of', 'is', 'for', 'from', 'with', 'and', 'I', 'in']
+Кількість слів: 137
+========================================
+
+========================================
+Файл: candidate_061.pdf
+Ключові терміни: ['Kubernetes', 'System', 'system', 'Management,', 'improve']
+Ядро тексту: WORK BACKGROUND Indosis Care Junior System Engineer Analyst, Jul 2020 -Ongoing Used automation on cloud technologies like Kubernetes and AWS to improve the availability, reduce cost and improve ease of development and maintenance. MIKAYLA NEUER ASSOCIATE SYSTEM ENGINEER ANALYST SKILLS Software Development, Application Programming, Agile Methodology, System Analysis, Technical Architecture, Project Management, Requirement Gathering, Client Management, Machine Learning, Java
+Вода: EDUCATION B.Tech(Instrumentation) from Hoogly Engineering College in 2020PERSONAL PROFILE Fresher early in system engineer role looking to change tracks into data analytics and application. OTHER ACTIVITIES Deep learning SpecializationPROJECTS Email Delivery system Automating Kubernetes and Docker Workflow
+Нудність тексту: 12.39%
+Стоп-слова: ['on', 'to', 'the', 'of', 'for', 'from', 'with', 'and', 'in']
+Кількість слів: 113
+========================================
+
+========================================
+Файл: candidate_062.pdf
+Ключові терміни: ['Data', 'Machine', 'have', 'testing', 'models']
+Ядро тексту: Dass Systems Junior Machine Learning Engineer, Jan 2020 - Ongoing Testing, debugging and parameter tuning for models developed by the internal team. B.Tech(IT) from National Institute Of Science And Technology,Rourkela in 2019WORK EXPERIENCE EDUCATIONROBERT MATHEWS MACHINE LEARNING ENGINEER (QUALITY CONTROL) Recent Graduate testing and debugging machine learning models
+Вода: Selenium Tester - Level BPROJECT OTHER QUALIFICATION. I am looking to switch to a development role where I can exercise my skills
+Нудність тексту: 16.67%
+Стоп-слова: ['Of', 'on', 'the', 'to', 'of', 'for', 'from', 'by', 'and', 'I', 'And', 'a', 'in']
+Кількість слів: 120
+========================================
+
+========================================
+Файл: candidate_063.pdf
+Ключові терміни: ['Machine', 'Learning', 'Data', 'GPU,', 'learning']
+Ядро тексту: Joseline Hernandez DATA SCIENTIST AND MACHINE LEANRING ENGINEER Executive Profile Good understanding of Data Preprocessing, training and deployment of machine learning and deep learning models.. Hands on experience in NLP tools., Other Activities Data Analysis with python Machine Learning with Python Machine Learning Stanford University Projects Study of factors affecting statistical comparisons, such as the type of dataset, the method of selection of train-test data, and the type of ML algorithm
+Вода: Education B.Tech (Telecommunication) from SKN, Coimbatore in 2019. Worked on Time Series Forecasting, Classification and Clustering Problems
+Нудність тексту: 23.16%
+Стоп-слова: ['on', 'the', 'of', 'as', 'AND', 'from', 'for', 'with', 'and', 'a', 'in']
+Кількість слів: 177
+========================================
+
+========================================
+Файл: candidate_064.pdf
+Ключові терміни: ['Analysis,', 'Data', 'data', 'model', 'EDA']
+Ядро тексту: Data Scientist, Feb 2020 - Ongoing Performing EDA and then clean the data to fit a model over it. I can also leverage different visualization tools to aid the understanding of the extracted data and finally use the required ML algorithm to get an outcome
+Вода: EXPERIENCE Passionate Solution Jr. DAMIAN ROSSIER PROFILE Expertise EDA modeler
+Нудність тексту: 22.07%
+Стоп-слова: ['it', 'on', 'to', 'the', 'of', 'an', 'for', 'and', 'I', 'a', 'in']
+Кількість слів: 145
+========================================
+
+========================================
+Файл: candidate_065.pdf
+Ключові терміни: ['team', 'can', 'Software', '2020', 'robots']
+Ядро тексту: EMMA MARSHALL GRADUATE SOFTWARE ENGINEER WORK EXPERIENCE Cognibot Intern, May 2020 to Dec 2020 Part of a team that designed the software for smart robots used on assembly lines. ACADEMIC PROFILE Integrated B.Tech & M.Tech (software engineering) from Vellore Institute of Technology (VIT) in 2021 EXECUTIVE SUMMARY Leadership and team building oriented mentality
+Вода: PROJECTS Smart Medicine Box EXTRA-CURRICULARS Python Programming. Looking for roles where I can learn and grow my skillset
+Нудність тексту: 10.48%
+Стоп-слова: ['to', 'the', 'of', 'on', 'for', 'from', 'and', 'I', 'a', 'in']
+Кількість слів: 105
+========================================
+
+========================================
+Файл: candidate_066.pdf
+Ключові терміни: ['Data', 'Software', '2019', 'Associate', 'Haldia']
+Ядро тексту: SKILLS Software Engineering, SDLC, Data Handling, Data Warehousing, Data Cleaning, Model Building, AWS, Python, C++, Big Data. EXPERIENCE SGN Pvt LTD Associate Developer, Nov 2019 - Till Date Software Development Lifecycle (SDLC) right from requirement analysis, documentation (functional specifications, technical design), coding and testing (preparation of test cases along with implementation) to maintain the proposed applications.EDUCATION B.Sc(Applied Statistics and Computation) HIT, Haldia 2019 ASSOCIATE DEVELOPER ACTIVITIES Data Structures and Algorithms in Java DATA STRUCTURES IN PYTHON PROJECTS Job categorization based on Dynamic selection
+Вода: Maintenance scheduler using ML. HILDA HAWTHORN PROFILE Associate Software Engineer experienced with data handling and building large scale solution
+Нудність тексту: 10.78%
+Стоп-слова: ['to', 'the', 'of', 'on', 'IN', 'from', 'with', 'and', 'in']
+Кількість слів: 102
+========================================
+
+========================================
+Файл: candidate_067.pdf
+Ключові терміни: ['Machine', 'Learning', 'am', 'about', 'explore']
+Ядро тексту: DESARKS SOFTWARE DEVELOPER (MACHINE LEARNING), NOV 2019 - ONGOING Fraud Detection using Natural Language Processing to identify the frauds within the organization for the financial domain. The domain of analytics and Machine Learning has amassed a greater interest for me and I want to explore and learn about the core concepts used in production
+Вода: I am looking to switch to a full- time role that will help me explore more about this. Network Analysis and advanced graphic visualization concepts to map and simplify.BROODY MICHAELS SKILLS Statistical Modeling, Natural Language Processing, Text Mining, Python, PySpark, Microsoft Azure, Azure Databricks, Azure Data Factory, SQL, Machine Learning Engineer, Data Analyst
+Нудність тексту: 24.05%
+Стоп-слова: ['on', 'to', 'of', 'the', 'IN', 'for', 'OF', 'AND', 'The', 'and', 'I', 'FROM', 'a', 'in']
+Кількість слів: 158
+========================================
+
+========================================
+Файл: candidate_068.pdf
+Ключові терміни: ['data', 'Data', 'statistical', 'HISTORY', '2019']
+Ядро тексту: MICHAEL REEVER FRESHER SOFTWARE DEVELOPER PROFESSIONAL PROFILE Hands-on experience in manipulating and analyzing complex, high-volume, and high dimensionality data from varying data sources Enhanced data collection procedures to include information that is relevant for building analytic systems Excelled at performing statistical analysis and fine-tuning using test results. PROFICIENT SKILLS Data Science, Logistic Regression, Clustering, Data Structures, Software Engineer, Data Analytics, Machine Learning, Visual Studio, Statistical Analysis, Linux, Unix, Python,Software Developer.EMPLOYMENT HISTORY Creating Dashboards and Analytical Front-ends to collect, display and analyze data effectively analyzing real-world problems and providing ways to solve them
+Вода: P R O J E C T S Architecture and Design of the Entire IDS System.. Understanding business objectives and developing models that help to achieve those objectives along with metrics to track their progress.SDE, Apr 2019 to Till dateSystemica Consultants EDUCATIONAL HISTORY Bsc (IT) University of Mangalore, 2019 ACHIEVEMENTS AND EXTRA CURRICULARS Training and deploying a machine model
+Нудність тексту: 18.71%
+Стоп-слова: ['at', 'to', 'the', 'of', 'is', 'for', 'from', 'AND', 'with', 'and', 'a', 'in']
+Кількість слів: 171
+========================================
+
+========================================
+Файл: candidate_069.pdf
+Ключові терміни: ['Computer', 'Deep', 'Data', 'model', 'into']
+Ядро тексту: WORK BACKGROUND Innoplexus Data Scientist Nov 2019 to Till Date Build an end-to-end, Computer Vision and NLP-based PDF-Extractor model to convert unstructured congress research paper pdf documents into a structured and categorical format with a micro-average F1-score of 0.84. and Deep Learning algorithms like YOLO, Baidu's DeepSpeech, FCN on Keras and Pytorch architectures
+Вода: EDUCATION Dual Degree (B.tech + M.Tech)(Chemical) from Indian Institute of Technology (IIT), Kharagpur in 2019PERSONAL PROFILE The majority of my work experience includes Computer Vision, Deep Learning and NLP. Used OpenCV for various image preprocessing and OSRA an open-sourced tool for SMILES generation
+Нудність тексту: 20.22%
+Стоп-слова: ['on', 'to', 'of', 'an', 'the', 'for', 'from', 'with', 'The', 'and', 'I', 'a', 'in']
+Кількість слів: 183
+========================================
+
+========================================
+Файл: candidate_070.pdf
+Ключові терміни: ['Data', 'data', '&', 'DATA', 'Text']
+Ядро тексту: Publicis Sapient DATA PROGRAMMER, JAN 2019 - TILL DATE Setting up processes for data management, template analytical modules/deliverables; improving processes with a focus on automation of data feeding to ML models. B.Tech (Electrical), NIST Kottam, 2019WORK EXPERIENCE EDUCATIONGRANT ABBERNS DATA MANAGER Expertise in identifying & developing innovative and out-of-the-box analytical solutions using suitable machine learning algorithms and statistical methods to achieve actionable insights & optimize business decisions Skilled in assisting in the strategic direction of the company by identifying opportunities in large, rich data sets and creating and implementing data- driven strategies that fuel growth Capable in driving data-driven decisionmaking, stakeholder management, steering analytics practice and deciding best-fit commercial model options for different sourcing scenarios
+Вода: Publicis Sapient ANALYST INTERN, OCT 2018 - JAN 2018 Worked on air pollution related Disease Analysis. Data Programming, Data Analysis, Machine Learning, Data Modelling, Deep Learning, Data Visualization, Text Mining, SAS Base, Python, Excel, Tableau, Insights, Objective Analysis.ABOUT SKILLS Movie Market Survey Food Recommending System Data Science With SAS and R Advanced SAS: SQL & Macros Python Text MiningPROJECT OTHER QUALIFICATION
+Нудність тексту: 19.89%
+Стоп-слова: ['on', 'to', 'of', 'the', 'for', 'by', 'with', 'and', 'With', 'a', 'in']
+Кількість слів: 176
+========================================
+
+========================================
+Файл: candidate_071.pdf
+Ключові терміни: ['Kerala', 'Machine', 'University', 'Research', 'analytics.']
+Ядро тексту: Jeremy Nyugen GRADUATE RESEARCH ASSISTANT Executive Profile Analyst with 2 years of experience in interpreting and analyzing data driven business solutions. Other Activities Certification on Machine Learning Projects Banhadau Model For Translation.Skills Python, R, Data Analysis, Machine Learning, Research.Work Experience Kerala Research Foundation Graduate Research Assistant Worked as a RA for multiple problems using aifferent State-of-the-art approaches
+Вода: Education B.Tech from Kerala University in 2018 M.Tech from Kerala University in 2020. Proficient knowledge in statistics and analytics
+Нудність тексту: 16.48%
+Стоп-слова: ['on', 'of', 'as', 'For', 'for', 'from', 'with', 'and', 'a', 'in']
+Кількість слів: 91
+========================================
+
+========================================
+Файл: candidate_072.pdf
+Ключові терміни: ['learning', 'Risk', 'data', 'Deep', 'Analysis,']
+Ядро тексту: ACADEMIC PROFILE B.Tech (IT) DBB University, Himachal, 2020EXECUTIVE SUMMARY Experience in using data to get meaningful insights for the business use case. NADIYA AHMAD DATA ANALYST WORK EXPERIENCE HSBC Bank Data Analyst, Apr 2020 - till Date Analyzing and Computing data of financial services and intermittent fiat currency stabilities
+Вода: PROJECTS Indicator to forecast non- agricultural GDP of India a quarter before. EXTRA-CURRICULARS Introduction to R Deep Learning and Neural network
+Нудність тексту: 16.51%
+Стоп-слова: ['to', 'the', 'of', 'for', 'and', 'a', 'in']
+Кількість слів: 109
+========================================
+
+========================================
+Файл: candidate_073.pdf
+Ключові терміни: ['Data', 'Machine', 'MACHINE', 'LEARNING', 'Python,']
+Ядро тексту: EXPERIENCE EDUCATION B.TECH FROM D&D UNIVERSITY, DAMAN AND DIU IN 2018JUNIOR MACHINE LEARNING DEVELOPER ACTIVITIES AND AWARDS DATA SCIENCE COURSE WORK - JOHN HOPKINS UNIVERSITYPROJECTS Landscape Classification using MobileNetV2.. ADSENSE MEDIA MACHINE LEARNING DEVELOPER, AUG 2018-TILL DATE Analyzing user data to produce recommender systems and targeted ad campaigns.EDUARDO GOMEZ SKILLS Machine Learning, Python, SQL, Artificial Intelligence, Business Analytics, Data Extraction, Data Analysis, Python, Haskell, Flutter, Android
+Вода: PROFILE I am a junior developer currently working as a Machine Learning Engineer. I mark myself as a team player and leverage my knowledge in Data Science and Analytics to contribute towards different solutions
+Нудність тексту: 14.0%
+Стоп-слова: ['to', 'as', 'IN', 'AND', 'FROM', 'and', 'I', 'a', 'in']
+Кількість слів: 100
+========================================
+
+========================================
+Файл: candidate_074.pdf
+Ключові терміни: ['AWS', 'Learning', 'Machine', 'Developer', 'HISTORY']
+Ядро тексту: (Electronics and communication) from Nagpur University in 2019 ACHIEVEMENTS AND EXTRA CURRICULARS AWS Developer - Stage 2 P R O J E C T S Mini Cloud Storage using node based processors.. Extraction of Images from word Documents as an input files, classification of images as vector and raster images.Software Developer (AI/ML), Mar 2019 to Till DateDigiScape Tech Solutions Ltd
+Вода: EDUCATIONAL HISTORY B.Tech/B.E. I have been part of different projects that were developed on different Machine Learning algorithms
+Нудність тексту: 15.33%
+Стоп-слова: ['on', 'an', 'of', 'as', 'to', 'for', 'from', 'AND', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 137
+========================================
+
+========================================
+Файл: candidate_075.pdf
+Ключові терміни: ['Data', 'Machine', 'Engineer', 'Modeling,', 'dashboard']
+Ядро тексту: Seeking to leverage my technical and analytical skills to drive growth of the organization.WORK BACKGROUND ZF Group Data Engineer Associate, August 2020 - till date Developed a dashboard in Cognos BI to track and analyze the drop rate of high-end components in Automatic Pick and Place Machine in Hannover, Germany. EDUCATION B.Tech(Electronics and communication) from Government College of Engineering, Pune in 2019 PG Diploma (Data Science and Engineering) from Great Lakes Institute of Management in 2021PERSONAL PROFILE Fresher Data Engineer who is experienced in pipeline building and analytics
+Вода: The dashboard helped the business to find a faulty feeder which when corrected reduced the number of drops by 35% per day.. KEIRON PAVARD DATA ENGINEER SKILLS Data Engineer, Data Analytics , Data Visualization, Machine Learning, Statistical Modeling, Predictive Modeling, MongoDB, PowerBI, Tableau, Python, MySQL
+Нудність тексту: 22.56%
+Стоп-слова: ['to', 'the', 'of', 'is', 'from', 'by', 'The', 'and', 'a', 'in']
+Кількість слів: 133
+========================================
+
+========================================
+Файл: candidate_076.pdf
+Ключові терміни: ['Regression,', 'Data', 'End', '2019', 'EXPERIENCE']
+Ядро тексту: Machine Learning, Linear Regression, Ridge Regression, Lasso Regression, Tableau, Time Series Analysis.ABOUT SKILLS Cool-factor-meter: Complete End to End project to determine how a product might perform among younger crowds based on tags. B.Tech (IT) from DJR College and University, 2020WORK EXPERIENCE EDUCATIONCARLY JENSEN FRESHER Data Scientist fresher with strong cohesive skills related to machine learning and deployment of end-to-end projects
+Вода: Remiro Amio Intern, Jan 2019 to Sep 2019 Culture shock analysis using targeted data. Understanding Data Analysis Python For Advanced data Engineering.PROJECT OTHER QUALIFICATION
+Нудність тексту: 10.71%
+Стоп-слова: ['to', 'on', 'of', 'For', 'from', 'with', 'and', 'a']
+Кількість слів: 84
+========================================
+
+========================================
+Файл: candidate_077.pdf
+Ключові терміни: ['reports', 'data', 'MIS', 'am', '2019']
+Ядро тексту: Benett Campbell FRESHER DATA ANALYST Executive Profile I am fresher data analyst starting out in ERP and MIS. As a fresher I am looking for roles specific to data science and machine learning to learn about the subject and create amazing applications to solve real life problems
+Вода: Education B.A (Economics) from Shivaji College in 2017 M.A (Economics), Correspondence/Distance Learning from Indira Gandhi National Open University in 2019. Work Experience Justdial MIS Analyst Apr 2019 to Dec 2020 Created and maintained reports in ERP for allowing the company to get information on daily business activities, Prepared MIS report/ dashboards and presented to the concerned department within the defined TAT; generated both periodic & ad hoc reports as required, Performed extensive data analysis for generating reports on a periodic basis
+Нудність тексту: 21.08%
+Стоп-слова: ['As', 'to', 'the', 'on', 'as', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 166
+========================================
+
+========================================
+Файл: candidate_078.pdf
+Ключові терміни: ['Data', 'Machine', 'or', 'PVT', 'Fresher']
+Ядро тексту: I also performed EDA on unstructured data to check whether imputation or needed or not, and helped the development team in model building and validation.EDUCATION B.Tech(Mechanical) from VIT, Vellore in 2017 M.Tech (Machine Learning) from BMS, Bangalore in 2019JUNIOR ANALYST ACTIVITIES SQL from TestDome Data science and Machine learning with PythonPROJECTS Automatic pattern recognition Data mining and missing value treatment using AutoML.. DOMINIC NEIWHALD PROFILE Fresher who is dynamic and defined when it comes to domain knowledge related to Data Analytics and Machine Learning.SKILLS Data Analysis, Machine Learning, Scikit Learn, Hive, SQL, IBM Watson, Natural Language Processing, AWS Texualizer, SparkOCR, PySpark, Python, Tesseract, Image Processing
+Вода: EXPERIENCE INDUSOFT PVT LTD Junior Data Analyst, Feb 2019 to Till Date Gathering and visualizing insights from large datasets. DOMINIC NEIWHALD PROFILE Fresher who is dynamic and defined when it comes to domain knowledge related to Data Analytics and Machine Learning.SKILLS Data Analysis, Machine Learning, Scikit Learn, Hive, SQL, IBM Watson, Natural Language Processing, AWS Texualizer, SparkOCR, PySpark, Python, Tesseract, Image Processing
+Нудність тексту: 16.94%
+Стоп-слова: ['it', 'to', 'on', 'the', 'is', 'from', 'with', 'and', 'I', 'in']
+Кількість слів: 124
+========================================
+
+========================================
+Файл: candidate_079.pdf
+Ключові терміни: ['Data', 'using', 'data', 'semantic', 'Analytics,']
+Ядро тексту: Junior Data Engineer, Nov 2019 to Apr 2021 Sentiment Analysis using the lexicon-based approach of semantic analysis. Build End-to-End Projects using Agile Methodology PERSONAL SKILLS Python, Machine Learning, Text Analytics, Big Data Analytics, Data Mining, Natural Language Processing, Multivariate Analysis, R, MS-Excel
+Вода: JULIA CHEN JUNIOR ENGINEER WORK EXPERIENCE Tata Consultancy Services Ltd. ACADEMIC PROFILE B.Tech (Instrumentation and Control) from Nagpur University in 2019EXECUTIVE SUMMARY I like to identify the main objective of a problem and then work on it to improve results
+Нудність тексту: 20.47%
+Стоп-слова: ['it', 'to', 'the', 'of', 'on', 'for', 'from', 'and', 'I', 'a', 'in']
+Кількість слів: 127
+========================================
+
+========================================
+Файл: candidate_080.pdf
+Ключові терміни: ['Machine', 'Data', 'Software', 'Management,', 'ENGINEERING']
+Ядро тексту: PROFILE Software Engineer with a track record of Implementing and completing projects on time and in alignment with client expectations. EMPOWERED TECHNOLOGIES SDE DEC 2019 TO TILL DATE Implemented utility for transforming images by removing noise using Fourier transform function.CARLTON BROOKE SKILLS Software Development, Application Programming, System Analysis, Technical Architecture, Requirement Gathering, Client Management, Server Management, Data Science, Machine Learning, Python, AWS, MySQL, NoSQL, NLP.EXPERIENCE EDUCATION BACHELOR OF ENGINEERING (COMPUTER ENGINEERING) FROM UNIVERSITY OF PUNE, PUNE IN 2019SOFTWARE DEVELOPMENT ENGINEER ACTIVITIES AND AWARDS IBM DATA SCIENCE PROFESSIONAL CERTIFICATE.PROJECTS Abnormal User Behavior In Network Using Machine Learning.
+Вода: Enthusiast about Data Science and keen to learn and explore. EMPOWERED TECHNOLOGIES SDE DEC 2019 TO TILL DATE Implemented utility for transforming images by removing noise using Fourier transform function.CARLTON BROOKE SKILLS Software Development, Application Programming, System Analysis, Technical Architecture, Requirement Gathering, Client Management, Server Management, Data Science, Machine Learning, Python, AWS, MySQL, NoSQL, NLP.EXPERIENCE EDUCATION BACHELOR OF ENGINEERING (COMPUTER ENGINEERING) FROM UNIVERSITY OF PUNE, PUNE IN 2019SOFTWARE DEVELOPMENT ENGINEER ACTIVITIES AND AWARDS IBM DATA SCIENCE PROFESSIONAL CERTIFICATE.PROJECTS Abnormal User Behavior In Network Using Machine Learning.
+Нудність тексту: 8.49%
+Стоп-слова: ['In', 'on', 'to', 'of', 'TO', 'IN', 'for', 'OF', 'AND', 'by', 'with', 'FROM', 'and', 'a', 'in']
+Кількість слів: 106
+========================================
+
+========================================
+Файл: candidate_081.pdf
+Ключові терміни: ['N', 'HISTORY', 'Data', 'using', 'business']
+Ядро тексту: During my intern period, I was chosen as a star performer for using out the box methodology to solve complex business problems. PROFICIENT SKILLS Data Analysis, Data Science, Machine Learning, Customer Analytics, Natural Language Processing, Python, SQL, MS, Artificial Intelligence.EMPLOYMENT HISTORY Creation of processes to automate tasks using Python Scripts and Cron and building models based on data inputs given by business intelligence teams.SDE Intern, Jan 2020 to Till Date Magicpin EDUCATIONAL HISTORY B.Tech/B.E
+Вода: (Computers) from JECO, Noida. ASHLEY HAYDON I N T E R N PROFESSIONAL PROFILE I am a fresher looking for a Software developer role
+Нудність тексту: 13.27%
+Стоп-слова: ['to', 'the', 'as', 'of', 'on', 'for', 'from', 'by', 'and', 'I', 'a']
+Кількість слів: 98
+========================================
+
+========================================
+Файл: candidate_082.pdf
+Ключові терміни: ['Machine', 'Elastic', 'Learning', 'Risk', 'Business']
+Ядро тексту: OTHER ACTIVITIES Machine Learning for Business Machine Learning for Marketing in PythonPROJECTS Risk and Returns using the Sharpe ratio. BETHANY CUMMINS F R E S H E R SKILLS Python, Data Analytics, Predictive Analytics, Machine Learning, Artificial Intelligence, Natural Language Processing, Deep Learning, Data Analysis, Business Analytics, Portfolio Analysis, Credit Risk Modeling Fraud Detection, R Programming, SQL, Linux, PySpark.EDUCATION B.Tech(Computers) from Amity University, Noida in 2021PERSONAL PROFILE Well adapt in utilizing Statistics and Machine Learning tools for Descriptive and Predictive Analysis
+Вода: Jun 2019 to Sep 2019 Learned about Amazon Web Services and its various applications like EC2, Cloudmail, Elastic Block Store, Elastic Beanstalk, Elastic Load Balancing, Amazon Simple Storage Service, Glacier, cloud front, Elastic File System etc. Fraud Detection in Python
+Нудність тексту: 25.97%
+Стоп-слова: ['to', 'the', 'of', 'on', 'for', 'from', 'with', 'and', 'in']
+Кількість слів: 181
+========================================
+
+========================================
+Файл: candidate_083.pdf
+Ключові терміни: ['Data', 'data', '&', 'sources', 'Visualisation']
+Ядро тексту: Data Analysis, Data Visualization, Deep Learning, Machine Learning, Adobe Analytics, Excel, Matplotlib, Python.ABOUT SKILLS Data Blending & Transformation. Tata Sons Analyst Support, Apr 2019 - Till date Connecting different data sources to extract uniform data & create views that deliver important insights Managing Database, Data Visualisation & Business Intelligence
+Вода: Data Visualisation Python.PROJECT OTHER QUALIFICATION. B.tech(IT) Maulana Abul University, 2019WORK EXPERIENCE EDUCATIONMARCUS BEUFORD SUPPORT ANALYST Adept at extracting and combining data from multiple sources to come up with KPIs which have a direct impact on the bottom line of a projeect
+Нудність тексту: 14.44%
+Стоп-слова: ['at', 'to', 'on', 'the', 'of', 'from', 'with', 'and', 'a']
+Кількість слів: 90
+========================================
+
+========================================
+Файл: candidate_084.pdf
+Ключові терміни: ['am', 'E', 'B.Tech', 'management', 'R']
+Ядро тексту: Robert Sergey F R E S H E R Executive Profile I recently graduated with a B.Tech degree in IT and currently am looking for jobs in sectors related to machine learning. Work Experience Currently I have no experience Education B.Tech Symbiosis University Pune, 2020
+Вода: I am committed towards better coding practices. Other Activities Artificial Intelligence and Robotics Projects Intelligent Library portal Cafeteria Smart management Housing Classification based on Geographic data Disaster management helping IoTSkills Data Modeling, Requirement Gathering, Machine Learning, Data Science, Python, C++, C, Java
+Нудність тексту: 13.68%
+Стоп-слова: ['to', 'on', 'IT', 'for', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 95
+========================================
+
+========================================
+Файл: candidate_085.pdf
+Ключові терміни: ['Machine', '2019', 'Image', 'Deep', '-']
+Ядро тексту: Interested to work with an enthusiastic team on business problems.SKILLS Python, MySQL, Tensorflow, Keras, Machine Learning, Deep Learning. EXPERIENCE ASM Management Intern, Jan 2019 - Oct 2019 Understanding Image scaling models and using them for quality restoration of old images.EDUCATION B.Tech(Chemical) PPC University, 2020INTERN FRESHER ACTIVITIES MACHINE LEARNING COURSE - TMLFPROJECTS Progress report and highlighting using NLP.
+Вода: HARRY MILES PROFILE Industrious and collaborative individual, Currently looking for an opportunity in Machine Learning and Deep Learning roles. I have a good depth of knowledge in ML Algorithms, various CNN architectures, and worked on Time series data, Image captioning, NLP tasks
+Нудність тексту: 16.16%
+Стоп-слова: ['an', 'on', 'of', 'to', 'for', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 99
+========================================
+
+========================================
+Файл: candidate_086.pdf
+Ключові терміни: ['Business', 'data', '2019', 'Junior', 'Regression,']
+Ядро тексту: Tanisha Quromba Brokerage Junior Analyst Intern, Dec 2019 to May 2020 Understand the use of industry tools and application in Business Units. ACADEMIC PROFILE B.A(Economics) Raja Kashwant Singh General College, 2020EXECUTIVE SUMMARY Individual who is passionate About data visualization and problem solving through data engineering methods
+Вода: EXTRA-CURRICULARS Silver Medal For Economics Junior Award. PERSONAL SKILLS Data Analytics, Linear Regression, Logistic Regression, Business Intelligence, Business Analysis, GraphQL, Python
+Нудність тексту: 14.06%
+Стоп-слова: ['at', 'to', 'on', 'of', 'the', 'For', 'is', 'for', 'with', 'and', 'a', 'in']
+Кількість слів: 128
+========================================
+
+========================================
+Файл: candidate_087.pdf
+Ключові терміни: ['can', '-', '2020', 'Machine', 'data']
+Ядро тексту: PROFILE I am a fresher specializing in data analytics and Machine Learning Application development. EXPERIENCE EDUCATION B.TECH(COMPUTERS) FROM AMITY UNIVERSITY, NOIDA IN 2021GRADUATE DEVELOPER ACTIVITIES AND AWARDS DEEPER DIVE INTO NEURAL NETWORKS - NYUPROJECTS Song Title Information Gathering tool.NAZAPP SOFTWARE DEVELOPER INTERN, DEC 2019 - MAY 2020 Developed a small script based application to indentify fake websites
+Вода: I believe that if given the opportunity I can prove my potential as a developer. I can easily communicate and work under someone's supervision who can guide me and help me in this journey of learning and exploring
+Нудність тексту: 21.48%
+Стоп-слова: ['on', 'the', 'as', 'of', 'IN', 'to', 'AND', 'FROM', 'and', 'I', 'a', 'in']
+Кількість слів: 149
+========================================
+
+========================================
+Файл: candidate_088.pdf
+Ключові терміни: ['Data', 'data', 'N', 'HISTORY', '2020']
+Ядро тексту: JOSE GARCIA I N T E R N PROFESSIONAL PROFILE Graduate database management engineer looking to join a role in data analytics or cloud-based machine learning solutions. PROFICIENT SKILLS Software Development, Data Science, Data Analysis, Data Structure, Business Analytics, Java, Powerbi, Tableau, SQL, DBMS, RDBMS, GraphQL, NoSQL, MongoDB, Firebase, Advanced Excel, Cloud-Testing, AWS, Azure, Cloud Management.EMPLOYMENT HISTORY Virtual Internship on data engineering on the cloud.Intern, May 2020 to Oct 2020 CB EDUCATIONAL HISTORY B.Tech(Computers) from VIT-AP in 2021 ACHIEVEMENTS AND EXTRA CURRICULAR Data science on cloudPROJECTS Cloud-based Ledger Service.
+Вода: PROFICIENT SKILLS Software Development, Data Science, Data Analysis, Data Structure, Business Analytics, Java, Powerbi, Tableau, SQL, DBMS, RDBMS, GraphQL, NoSQL, MongoDB, Firebase, Advanced Excel, Cloud-Testing, AWS, Azure, Cloud Management.EMPLOYMENT HISTORY Virtual Internship on data engineering on the cloud.Intern, May 2020 to Oct 2020 CB EDUCATIONAL HISTORY B.Tech(Computers) from VIT-AP in 2021 ACHIEVEMENTS AND EXTRA CURRICULAR Data science on cloudPROJECTS Cloud-based Ledger Service.. JOSE GARCIA I N T E R N PROFESSIONAL PROFILE Graduate database management engineer looking to join a role in data analytics or cloud-based machine learning solutions
+Нудність тексту: 12.36%
+Стоп-слова: ['on', 'to', 'the', 'AND', 'from', 'I', 'a', 'in']
+Кількість слів: 89
+========================================
+
+========================================
+Файл: candidate_089.pdf
+Ключові терміни: ['Analysis,', 'data', '2019', 'Language', 'Natural']
+Ядро тексту: In search of a role where I can understand about the commercial applications and contribute to them.WORK BACKGROUND Chrysalis Python Developer Intern, Feb 2019 - Jul 2019 Building a business decision support system inclusive of data exploration. HELENA PATRICKS FRESHER PYTHON DEVELOPER SKILLS Data Analysis, Machine Learning, Regression Analysis, Time Series Analysis, SQL, Base SAS, Python, Natural Language Processing, Text analysis, Numpy, Pandas, Matplotlib, Seaborn, Statistical Analysis, NLTK, BERT, Transformers, Pytesseract, Clustering, KNN, K-Means.EDUCATION B.Sc(CA) MIET, Baliya(UP) 2021.PERSONAL PROFILE Fresher who is well acquainted with some of the Natural Language Processing (NLP) and text analysis
+Вода: I have worked on a few projects and also on databases to extract data and process them. OTHER ACTIVITIES Introduction to R Google Analytics for BeginnersPROJECTS Determination of Likelihood of purchase based on KNN.
+Нудність тексту: 17.05%
+Стоп-слова: ['In', 'on', 'the', 'of', 'to', 'is', 'for', 'with', 'and', 'I', 'a']
+Кількість слів: 129
+========================================
+
+========================================
+Файл: candidate_090.pdf
+Ключові терміни: ['Data', 'data', 'Associate', 'Security', 'NSE']
+Ядро тексту: SAAS, Data Analyst, SQL, SPSS, Statistical Analysis, Microsoft Azure, Power Bi, MySQL, Excel, Data Visualization, Data Interpretation, Data Extraction, Cloud Computing, Business Intelligence.ABOUT SKILLS Healthcare Alert System NSE 1 Network Security Associate NSE 2 Network Security AssociatePROJECT OTHER QUALIFICATION. DTSl Software Services Associate Data Engineer, Jul 2019 - Ongoing Synthesized current business intelligence data to produce reports and polished presentations, highlighting findings and recommending changes Analyzing and documenting Tender requirements, shared inputs, and working on a possible solution
+Вода: Familiar with big data and can easily adapt to a new work environment. B.Tech(Electrical) from Pune university in 2019WORK EXPERIENCE EDUCATIONMORGAN DELAFEY ASSOCIATE SYSTEM DATA ENGINEER Data Science Explorer with a keen interest in application models of Machine learning
+Нудність тексту: 16.24%
+Стоп-слова: ['on', 'to', 'of', 'from', 'with', 'and', 'a', 'in']
+Кількість слів: 117
+========================================
+
+========================================
+Файл: candidate_091.pdf
+Ключові терміни: ['Machine', 'Data', '2019', 'EXPERIENCE', 'CASH']
+Ядро тексту: EXPERIENCE RNT Laboratories Intern Trainee, Apr 2019 - Jun 2019 Using ML algorithms for different classification and regression problems over large datasets.EDUCATION B.Tech(CSE) Dr. Motivated to learn, grow and excel my experience by challenging myself.SKILLS Machine Learning, Text Analytics, Software Development, Data Analysis, Python, Java, JavaScript, Matplotlib
+Вода: CASH FLORES PROFILE Machine learning Enthusiast. Nidhiram Goyal Engineering College, Murshidabad 2020FRESHER ACTIVITIES Data Science With Python
+Нудність тексту: 5.71%
+Стоп-слова: ['to', 'for', 'by', 'and', 'With']
+Кількість слів: 70
+========================================
+
+========================================
+Файл: candidate_092.pdf
+Ключові терміни: ['Analysis,', 'Data', 'Machine', 'SDE', 'Business']
+Ядро тексту: Projects Generating reports from a library of records about patient data.Skills Business Analyst, Data Analytics, Data Cleansing, Business Analysis, Risk Analysis, Statistical Analysis, Deep Learning, Machine Learning, Python, Numpy.Work Experience ZigSAW SDE and business Analyst trainee, Apr 2019 - Dec 2020 Working under a team of data scientist to develop machine learning prediction models. Aya Baker GRADUATE SDE AND BUSINESS ANALYST Executive Profile Looking for roles related to application development in Machine Learning
+Вода: Education B.BA PGG College Mysore, 2019. Other Activities Certificate on Data Analysis
+Нудність тексту: 14.12%
+Стоп-слова: ['on', 'to', 'of', 'for', 'AND', 'from', 'and', 'a', 'in']
+Кількість слів: 85
+========================================
+
+========================================
+Файл: candidate_093.pdf
+Ключові терміни: ['Data', 'models', 'business', 'Machine', 'am']
+Ядро тексту: DALTON GREEN DATA SCIENTIST WORK EXPERIENCE United Health Group Data Scientist Jun 2019 to Till Date Managing the activities including designing, developing, testing, troubleshooting, and debugging the ML models to fit the business needs. (Data Engineering) from Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal in 2019EXECUTIVE SUMMARY I am currently working as a data scientist and I like to build recommender systems and prediction models
+Вода: ACADEMIC PROFILE B.E. EXTRA-CURRICULARS NLP Developer - CALTECH
+Нудність тексту: 10.17%
+Стоп-слова: ['to', 'the', 'as', 'of', 'on', 'from', 'by', 'and', 'I', 'a', 'in']
+Кількість слів: 118
+========================================
+
+========================================
+Файл: candidate_094.pdf
+Ключові терміни: ['ANALYST', 'Python,', 'BU', 'DATA', 'end']
+Ядро тексту: CDX INFOTECH BU ANALYST INTERN, AUG 2019 TO JAN 2020 Worked on multiple Projects related to analytics and implemented end to end solutions using Python, SQL, Tableau and Power BI. KAYLA YOUNG SKILLS Requirement Analysis, Machine Learning, Predictive Analytics, Python, Tableau, PowerBI, R, SQL, Advanced Excel, Business Analytics
+Вода: EXPERIENCE EDUCATION B.CA (COMPUTER APPLICATIONS) FROM SRI VENKATESHWARA UNIVERSITY (SVU), TIRUPATI IN 2020GRADUATE DATA ANALYST ACTIVITIES AND AWARDS DATA ANALYST PYTHON PROGRAMMINGPROJECTS Object Detection using YOLO. PROFILE Graduate Looking for roles related to BU analyst and machine learning
+Нудність тексту: 15.12%
+Стоп-слова: ['on', 'TO', 'to', 'IN', 'for', 'AND', 'FROM', 'and']
+Кількість слів: 86
+========================================
+
+========================================
+Файл: candidate_095.pdf
+Ключові терміни: ['Data', 'Learning,', 'Machine', 'HISTORY', 'Knowledge']
+Ядро тексту: ERIC MILROY SYSTEM ENGINEER AND ANALYST PROFESSIONAL PROFILE Versatile experience in Machine Learning, Python, SQL & Computer Vision. PROFICIENT SKILLS Machine Learning, Method Development, Artificial Intelligence, Data Modeling, Data Visualization, Data Validation, Deep Learning, MySQL, MongoDB, Python, Plotly, Seaborn, Matplotlib.EMPLOYMENT HISTORY Building an end-to-end project based on rating system and automatic verdict suggestion using and emotion regression system from the given rating and suggestions.Associate Software Engineer and Analyst, Jun 2020 - till dateBlueM Solutions EDUCATIONAL HISTORY B.Tech (Electronics and Telecommunication) from CDAC ACTS, 2020 ACHIEVEMENTS AND EXTRA CURRICULAR AWS EC2 Certification.PROJECTS Data Extraction with python.
+Вода: Good Knowledge of Statistics and Mathematics. Knowledge of automating unsupervised learning methods such as anomaly detection and clustering
+Нудність тексту: 18.58%
+Стоп-слова: ['an', 'on', 'of', 'as', 'the', 'AND', 'from', 'with', 'and', 'in']
+Кількість слів: 113
+========================================
+
+========================================
+Файл: candidate_096.pdf
+Ключові терміни: ['Machine', 'Learning', 'how', 'Python', '-']
+Ядро тексту: SYDNEY JONES PROFILE I am currently working as a junior Machine Learning Engineer and I want to learn more about how Machine Learning projects impact real work scenarios.SKILLS Data Mining, Deep Learning, Machine Learning, Software Testing , Algorithms, Python, JIRA, NLP, SQL, Unsupervised learning, Clustering, Regression, Model Development, MLOPS. EXPERIENCE TSC Solutions Junior Machine Learning Engineer, Oct 2019 - Ongoing Working for an automotive manufacturing client to figure how fault predictions in production line using Machine learning and computer vision.EDUCATION B.Tech(Electronics/Telecommunication ) from STES College of Engineering, Pune in 2019JUNIOR MACHINE LEANRING DEVELOPER ACTIVITIES Certified Cloud Deployment Correspondent
+Вода: Embedded Systems on Python - Level BPROJECTS Photo Basher Using Python and NLTK. EXPERIENCE TSC Solutions Junior Machine Learning Engineer, Oct 2019 - Ongoing Working for an automotive manufacturing client to figure how fault predictions in production line using Machine learning and computer vision.EDUCATION B.Tech(Electronics/Telecommunication ) from STES College of Engineering, Pune in 2019JUNIOR MACHINE LEANRING DEVELOPER ACTIVITIES Certified Cloud Deployment Correspondent
+Нудність тексту: 13.51%
+Стоп-слова: ['to', 'an', 'as', 'of', 'on', 'for', 'from', 'and', 'I', 'a', 'in']
+Кількість слів: 111
+========================================
+
+========================================
+Файл: candidate_097.pdf
+Ключові терміни: ['data', 'Data', 'Risk', 'Business', 'Analytics,']
+Ядро тексту: BIB CONSULTANCY BUSINESS ANALYST, SEP 2019 TO TILL DATE Create and leverage analytical approaches to quantify catastrophe risk using machine learning models and advance statistical concepts to provide account level and portfolio level results for various Insurance and Reinsurance clients.BAILEY MIRL SKILLS Data Analysis, Data Analytics, Business Analysis, R, SAS, PowerBi, Tableau, Data Visualization, Business Analytics, Machine Learning. EXPERIENCE EDUCATION B.SC (MATHS) FROM DELHI UNIVERSITY - HANSRAJ COLLEGE IN 2015 MSC(SCIENCE) (STATISTICS) FROM DELHI UNIVERSITY - HANSRAJ COLLEGE IN 2018FRESHER BUSINESS ANALYST PROJECTS CAT modeling, using RMS- Risk Link, Risk manager and SQL
+Вода: Experienced in creating meaningful data dashboards and evaluation models. PROFILE Fresher looking to join as a data analyst and junior data scientist
+Нудність тексту: 22.61%
+Стоп-слова: ['to', 'TO', 'as', 'IN', 'for', 'FROM', 'and', 'a', 'in']
+Кількість слів: 115
+========================================
+
+========================================
+Файл: candidate_098.pdf
+Ключові терміни: ['Machine', 'Developer', 'based', '-', 'C++']
+Ядро тексту: B.Tech(Telecommunication) from KLE College of Engineering, Belagavi in 2018WORK EXPERIENCE EDUCATIONLESLIE SUION SOFTWARE ENGINEER I am an assistant software engineer working on cloud-based solutions. VoyaGenius Labs Software Developer (ML), Dec 2018 - Ongoing Geocoding and detecting rooftop images based on given Indian addresses
+Вода: Machine Learning Engineer, C++, Technical Documentation, Natural Language Processing, SQL, Tableau, Python, AWS, Azure, SAP, OracleDB, Heroku.ABOUT SKILLS Complexity based sorter for C++ C++ Developer - Grade APROJECT OTHER QUALIFICATION. After working on a couple of Machine Learning application evaluations and deployment I got really engrossed into the domain and would like to work more towards improving myself
+Нудність тексту: 12.87%
+Стоп-слова: ['on', 'an', 'of', 'the', 'to', 'for', 'from', 'and', 'I', 'a', 'in']
+Кількість слів: 101
+========================================
+
+========================================
+Файл: candidate_099.pdf
+Ключові терміни: ['Machine', 'Experience', 'Engineer', 'Intelligence,', 'Language']
+Ядро тексту: and M.Sc Hons. Mechanical Engineering) from Birla Institute of Technology and Science (BITS), Pilani in 2020
+Вода: (Hons. Experience in working with IoT data from smartphone sensors and productionizing ML models at scale
+Нудність тексту: 20.0%
+Стоп-слова: ['at', 'on', 'of', 'for', 'from', 'with', 'and', 'in']
+Кількість слів: 105
+========================================
+
+========================================
+Файл: candidate_100.pdf
+Ключові терміни: ['Machine', 'Speech', 'Engineer', 'University', 'processing']
+Ядро тексту: SAMUEL LEE JUNIOR MACHINE LEARNING ENGINEER WORK EXPERIENCE S2H Minds Pvt Ltd Junior Machine Learning Engineer May 2019 - Ongoing Working on Natural Language Processing based Speech processing engines, "Key-Word" recognition, and Recommender System. ACADEMIC PROFILE B.Sc (Statistics) from Osmania University in 2019EXECUTIVE SUMMARY I am a junior Machine Learning Engineer who has worked on commercial grade recommender systems and Speech processing systems for home devices
+Вода: PROJECTS Mini Interactive website for Quiz EXTRA-CURRICULARS Recommender Systems - Understanding the underneath, University of Waterloo.. PERSONAL SKILLS Machine Learning, Algorithm Development, Python, Data Mining, Text Mining, Natural Language Processing, Pattern Recognition, Deep Learning, Neural Networks, Speech Identification, RNN, LSTM, Word-Clouds, Tensorflow, Beautiful Soup
+Нудність тексту: 16.36%
+Стоп-слова: ['on', 'the', 'of', 'for', 'from', 'and', 'I', 'a', 'in']
+Кількість слів: 110
+========================================
+
+========================================
+Файл: candidate_101.pdf
+Ключові терміни: ['Machine', 'compounds', 'Using', 'learning', 'Research']
+Ядро тексту: SK JADODIA LABS CHEMICAL SYNTHESIS RESEARCH ASISTANT, JAN 2019 - ONGOING Developed a Machine learning prediction model to optimize steam consumption in MSFE. Using Algorithmic synthesis decided which compounds should be added to an industrial solution to result in a required reaction without producing toxic waste.SCARLETT MESTOS SKILLS MATLAB, Python, Aspen, Minitab, Catalysis, Research Analysis, Data Analytics, Deep Learning, Machine Learning, Process Optimization, Research Scientist, Chemical Engineering, Compound Synthesis
+Вода: Using Clustering determined paint molecules that affected breathing issues in children. PROFILE As a research assistant I always try to define new boundaries and work in a meticulous way to figure out solutions
+Нудність тексту: 19.25%
+Стоп-слова: ['to', 'As', 'as', 'on', 'the', 'an', 'of', 'for', 'AND', 'and', 'I', 'a', 'in']
+Кількість слів: 187
+========================================
+
+========================================
+Файл: candidate_102.pdf
+Ключові терміни: ['Data', 'Machine', 'am', 'Developed', 'time']
+Ядро тексту: EDUCATIONAL HISTORY B.Tech(Electrical) from ACP College Of Engineering, Mumbai 2017 MS(Artificial intelligence and Machine Learning), Part time from John Moore's University, UK in 2020 ACHIEVEMENTS AND EXTRA CURRICULAR Embedded Python Certification PROJECTS EV Battery Issue Tracking Software Built a conversational chatbot using RASA. TANNER WILLIAMS SOLUTIONS ENGINEER PROFESSIONAL PROFILE I am currently working in the EV space developing software solutions helpful for EVs
+Вода: PROFICIENT SKILLS Data Analysis, EDA, Python, Machine Learning, SQL, NLP, MATLAB, C#, Node.Js, Statistics, Business Analytics, Predictive Modeling, Data Modeling.EMPLOYMENT HISTORY Developed a customized analysis tool that improved the analysis time by 4 folds using Python, Chaco Plotting Library & Traits UI Library. Developed a Battery SOH forecasting application.Development Engineer(Solutions), Feb 2019 to Till DateOCTILLION POWER SYSTEMS PVT LTD
+Нудність тексту: 17.45%
+Стоп-слова: ['Of', 'to', 'the', 'for', 'from', 'AND', 'by', 'and', 'I', 'a', 'in']
+Кількість слів: 149
+========================================
+
+========================================
+Файл: candidate_103.pdf
+Ключові терміни: ['Strategy', '2019', '-', 'Investment', 'Consulting,']
+Ядро тексту: EXPERIENCE GDMNS Strategy Analyst, Oct 2019 - Ongoing Provide key insights that help make business decisions EluCIDATA Data Scientist, Jan 2018 - Sep 2019 Created a CRISPR/Cas9 splicing simulator for researching DNA/RNA cutting process and other genomic software applications in R and Python. As an analyst, I always try to provide the best results I can extract from data.SKILLS Business Strategy, Consulting, Excel, Capital Markets, Investment Banking, Investment Research, Statistics, Strategy Consulting, VBA, Python, MATLAB, Machine Learning
+Вода: I have been part of teams and contribute a lot to their products and services. EDUCATION B.Tech(Computers) from UNIVERSITY OF DELHI, DELHI in 2018BUSINESS STRATEGIST ACTIVITIES Python Developer Certification.PROJECTS Image Generation from Text using Auto- encoder
+Нудність тексту: 13.28%
+Стоп-слова: ['to', 'As', 'of', 'an', 'the', 'for', 'A', 'from', 'OF', 'and', 'I', 'a', 'in']
+Кількість слів: 128
+========================================
+
+========================================
+Файл: candidate_104.pdf
+Ключові терміни: ['Data', 'data', 'Analysis,', 'Analytics,', 'text']
+Ядро тексту: Creating dashboards using RShiny of quantitative data and made a good animated graphical representation, worked on unstructured text data as well, built a text classifier. Data Analyst, Data Analytics, Data Analysis, Time Series Analysis, Business Analytics, Predictive Modeling, Regression Analysis, Image Processing, Data Visualization, Linear Regression, Statistical Analysis, Requirement Analysis, SQL, Tableau, Python.ABOUT SKILLS
+Вода: BSc (Information Technology) from Sikkim Manipal university in 2019WORK EXPERIENCE EDUCATIONJAIME HORAN DATA ANALYST Data Analyst, interested in Machine Learning application development. As a data analyst, I have extensive experience with data preprocessing and pipeline building and I would like to venture further into this domain to learn more about it
+Нудність тексту: 24.82%
+Стоп-слова: ['to', 'the', 'of', 'on', 'as', 'As', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 137
+========================================
+
+========================================
+Файл: candidate_105.pdf
+Ключові терміни: ['Learning,', 'Data', 'PYTHON', 'Fresher', 'Machine']
+Ядро тексту: WORK BACKGROUND DKB Innovations PYTHON INTERN, JUN 2019 - JAN 2020 Worked on a small end-to-end project related to a shopping site and search engine recommender. JEREMY WANG JUNIOR PYTHON DEVELOPER SKILLS Machine Learning, Data processing, Data visualization, Deep Learning, SQL, Python Programming, PyCharm, Django.EDUCATION B.TECH CSE Heramba Chandra College, 2020PERSONAL PROFILE Fresher python developer interested in data analytics and machine learning
+Вода: OTHER ACTIVITIES Statistics in PythonPROJECTS Smart API serving.. JEREMY WANG JUNIOR PYTHON DEVELOPER SKILLS Machine Learning, Data processing, Data visualization, Deep Learning, SQL, Python Programming, PyCharm, Django.EDUCATION B.TECH CSE Heramba Chandra College, 2020PERSONAL PROFILE Fresher python developer interested in data analytics and machine learning
+Нудність тексту: 8.57%
+Стоп-слова: ['to', 'on', 'and', 'a', 'in']
+Кількість слів: 70
+========================================
+
+========================================
+Файл: candidate_106.pdf
+Ключові терміни: ['Business', 'data', 'Presales,', 'Analytics,', 'Machine']
+Ядро тексту: Skills Business Associate, Program Management, Presales, Artificial Intelligence, Data Analytics, Telecommunication, Machine Learning, Cloud, M&E, Conversational AI, Predictive Analytics, Sales, Business Development, NLP, RFP, Computer Vision.Work Experience Tech Mahindra Business Associate May 2019 to Till Date Presales, Solutions, and Marketing Exhibited timeliness and delivered quality responses to Request for Proposals (RFPs), RFIs and RFQs, Developing creative and crisp proposal documents, Coordinating with SME and Stakeholders for support in developing solutions and delivery plans, Defining and own go to market strategies for AI and D&A. Pierre Franks BUSINESS ANALYST Executive Profile Business Analyst and a data engineer
+Вода: Education B.Tech (Computers) from SPPU in 2018. I believe that data has the highest power when it comes to making informative decisions about business and therefore my objective is to always make sense from what a dataset is trying to convey
+Нудність тексту: 18.98%
+Стоп-слова: ['it', 'to', 'the', 'is', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 137
+========================================
+
+========================================
+Файл: candidate_107.pdf
+Ключові терміни: ['Data', 'data', '2019', 'Analysis,', 'Business']
+Ядро тексту: ACADEMIC PROFILE B.Com (Commerce) from Delhi College of Art in 2017 PG Diploma (Data Science and Business Analytics) from Aegis School of Business & Data Science in 2019 EXECUTIVE SUMMARY Skilled in creating data regression models using predictive data modeling, and data mining algorithms to deliver insights and implemented action-oriented solutions to complex business problems by using Classification Algorithms and Regression Algorithms, Natural Language Processing (NLP), Object Recognition in Python. ANDORA MCCONNEL DATA SCIENTIST WORK EXPERIENCE HP Lead Data Scientist, Feb 2020 to till date Predicting anomalies in the frequency of transactions on real-time data
+Вода: The model could identify 90 % of the celebrities correctly. Used Python, OpenCV, dlib
+Нудність тексту: 22.41%
+Стоп-слова: ['on', 'the', 'of', 'to', 'From', 'for', 'from', 'by', 'The', 'and', 'a', 'in']
+Кількість слів: 174
+========================================
+
+========================================
+Файл: candidate_108.pdf
+Ключові терміни: ['ANALYST', 'BUSINESS', '2020', 'Machine', 'am']
+Ядро тексту: CITI FINANCIAL BUSINESS ANALYST INTERN, MARCH 2019-JUN 2020 Prepared the 2020 Financial planning for Credit Cards and Personal Loans Initiation Operations and a recommender system to predict valuable customers.KEEGAN SIMONS SKILLS Business Analyst, Data Analysis, Machine Learning, Python, C++, DotNet, Java, PyTorch. PROFILE I am a fresher business analyst with a knack for building applications that use machine learning and deep learning
+Вода: EXPERIENCE EDUCATION B.TECH(CIVIL) FROM INSTITUTE OF TECHNOLOGY, BANARAS HINDU UNIVERSITY IN 2019 FRESHER BUSINESS ANALYST ACTIVITIES AND AWARDS TEAM LEAD BHU CIVIL PLANNING FOR MODERN CITY.PROJECTS Emotions Based Model for City Planning.. PROFILE I am a fresher business analyst with a knack for building applications that use machine learning and deep learning
+Нудність тексту: 9.57%
+Стоп-слова: ['FOR', 'to', 'the', 'IN', 'for', 'OF', 'AND', 'with', 'FROM', 'and', 'I', 'a']
+Кількість слів: 94
+========================================
+
+========================================
+Файл: candidate_109.pdf
+Ключові терміни: ['Data', 'Machine', 'Learning', 'strong', 'R']
+Ядро тексту: AMBER GREEN F R E S H E R PROFESSIONAL PROFILE A strong and disciplined individual and fresher who has shown strong leadership qualities and responsibilities through college. PROFICIENT SKILLS Software Development, Data Science, Data Analysis, Data Structure, Business Analytics, Artificial Intelligence, Machine Learning, Software Engineering, Java, Powerbi, Tableau, SQL, DBMS, Deep learning.EMPLOYMENT HISTORY Intern at Machine Learning and cognitive division.Intern, Nov 2020 - till dateZoomBot EDUCATIONAL HISTORY B.Tech HEM College, Indore, 2020 ACHIEVEMENTS AND EXTRA CURRICULAR Data Analyst Python ProgrammingPROJECTS Air Quality Prediction Based On supervised Machine Learning Classification models.
+Вода: PROFICIENT SKILLS Software Development, Data Science, Data Analysis, Data Structure, Business Analytics, Artificial Intelligence, Machine Learning, Software Engineering, Java, Powerbi, Tableau, SQL, DBMS, Deep learning.EMPLOYMENT HISTORY Intern at Machine Learning and cognitive division.Intern, Nov 2020 - till dateZoomBot EDUCATIONAL HISTORY B.Tech HEM College, Indore, 2020 ACHIEVEMENTS AND EXTRA CURRICULAR Data Analyst Python ProgrammingPROJECTS Air Quality Prediction Based On supervised Machine Learning Classification models.. AMBER GREEN F R E S H E R PROFESSIONAL PROFILE A strong and disciplined individual and fresher who has shown strong leadership qualities and responsibilities through college
+Нудність тексту: 16.48%
+Стоп-слова: ['at', 'AND', 'A', 'and', 'On']
+Кількість слів: 91
+========================================
+
+========================================
+Файл: candidate_110.pdf
+Ключові терміни: ['Data', 'analytics', 'language', 'Natural', 'Customer']
+Ядро тексту: BILL CLIFFORD PROFILE I am an experienced analytics specialist seeking a full-time position in the field of data science and application in business problem solving, where I can apply my knowledge and skills for continuous improvement.SKILLS Data Science, Customer analytics, Data Visualization, Natural language Processing, SQL, Python, R, Tableau, Alteryx, Process Improvement. Customer analytics for declining businesses incorporating sentiment analysis.EDUCATION B.Tech, ECE, Maulana Malviya College for Informatics, Ahmedabad 2020DATA MANAGER AND ANALYST ACTIVITIES IBM Analytics Certification.PROJECTS Travel & Entertainment registration automation.
+Вода: EXPERIENCE Orchidia Tours and Travels Data Managerial Intern, Apr 2020 to Oct 2020 Email prioritization & classification based on Natural language processing. Customer analytics for declining businesses incorporating sentiment analysis.EDUCATION B.Tech, ECE, Maulana Malviya College for Informatics, Ahmedabad 2020DATA MANAGER AND ANALYST ACTIVITIES IBM Analytics Certification.PROJECTS Travel & Entertainment registration automation.
+Нудність тексту: 13.59%
+Стоп-слова: ['an', 'the', 'of', 'to', 'on', 'for', 'AND', 'and', 'I', 'a', 'in']
+Кількість слів: 103
+========================================
+
+========================================
+Файл: candidate_111.pdf
+Ключові терміни: ['Analysis,', 'Business', 'data', 'Analyst,', 'Tableau']
+Ядро тексту: OTHER ACTIVITIES Tableau Visualization Certification.PROJECTS Producing Tableau Dashboards on Large Dataset.. TAYLOR BENLEY JUNIOR ANALYST SKILLS Business Analyst, Data Analysis, Business Analysis, Machine Learning, Tableau, Seaborn, Python, R, AWS VIEW, NodeJS.EDUCATION BBA, JJR College, Uttaranchal, 2019.PERSONAL PROFILE Fresher starting out with Business Analysis, and machine learning modelling based on data engineering.WORK BACKGROUND Biswa Pvt Ltd Part-Time Analyst, Nov 2019 - Oct 2020 Worked with clients to sample their data and produce meaningful outcomes from them
+Вода: TAYLOR BENLEY JUNIOR ANALYST SKILLS Business Analyst, Data Analysis, Business Analysis, Machine Learning, Tableau, Seaborn, Python, R, AWS VIEW, NodeJS.EDUCATION BBA, JJR College, Uttaranchal, 2019.PERSONAL PROFILE Fresher starting out with Business Analysis, and machine learning modelling based on data engineering.WORK BACKGROUND Biswa Pvt Ltd Part-Time Analyst, Nov 2019 - Oct 2020 Worked with clients to sample their data and produce meaningful outcomes from them. OTHER ACTIVITIES Tableau Visualization Certification.PROJECTS Producing Tableau Dashboards on Large Dataset.
+Нудність тексту: 13.33%
+Стоп-слова: ['to', 'on', 'from', 'with', 'and']
+Кількість слів: 75
+========================================
+
+========================================
+Файл: candidate_112.pdf
+Ключові терміни: ['Machine', 'problems', 'data', 'Business', 'Analysis,']
+Ядро тексту: I want to work on Machine Learning application problems that deal with real life scenarios. Business Analyst, Aug 2020 to Till Date Administering applications & assessing feasibility; designing lean proofs; deciding API fields and gathering information pertaining to it
+Вода: Pvt. Ltd
+Нудність тексту: 16.67%
+Стоп-слова: ['to', 'the', 'of', 'as', 'As', 'an', 'on', 'from', 'with', 'and', 'I', 'in']
+Кількість слів: 138
+========================================
+
+========================================
+Файл: candidate_113.pdf
+Ключові терміни: ['&', 'Machine', 'enthusiast,', 'Mackey', 'Networks,']
+Ядро тексту: Work Experience BB House of Developers Intern Trainee, Nov 2019 - Feb 2020 Learned the in's and out's of software development of machine learning projects. An enthusiast, with a Master's degree in Electronics & Telecommunication, very keen to learn & eagerly looking for opportunities
+Вода: Subhash College, Hyderabad 2020.. Education B.CA St
+Нудність тексту: 8.57%
+Стоп-слова: ['to', 'the', 'of', 'for', 'from', 'with', 'and', 'a', 'An', 'in']
+Кількість слів: 105
+========================================
+
+========================================
+Файл: candidate_114.pdf
+Ключові терміни: ['Data', '&', 'solutions', 'Risk', 'data']
+Ядро тексту: GARETTE PAIGE ASSOCIATE SOFTWARE ENGINEER WORK EXPERIENCE Delta Info-nancial Services SDE for Software Caging, Jun 2019 to Ongoing Applying IAM solutions using SailPoint with integration to various target systems like Active Directory, Web Services, Workday, and Delimited Files. PROJECTS Risk Management Sentiment Analysis General Text Classification EXTRA-CURRICULARS Microsoft Technology Associate (Software Fundamentals) Python
+Вода: ACADEMIC PROFILE B.E. In depth knowledge of tools used for production
+Нудність тексту: 16.34%
+Стоп-слова: ['In', 'to', 'the', 'of', 'on', 'for', 'from', 'with', 'and', 'in']
+Кількість слів: 153
+========================================
+
+========================================
+Файл: candidate_115.pdf
+Ключові терміни: ['Data', 'business', 'CDN', 'Edge', 'Machine']
+Ядро тексту: JAYLA RAMIREZ DATA SCIENCE ENGINEER PROFESSIONAL PROFILE As a Data Scientist, I have expertise in both Machine Learning and Statistical analysis techniques, Currently, I am handling the End-to-End Data Science process in Azure Environment, from gathering requirements from the business team to Deploying model in Production. PROFICIENT SKILLS Data Analyst, Database Management, Data Integration, Machine Learning, Natural Language Processing, Artificial Intelligence, Deep Learning, Python, SQL, Data Science, Tableau, PowerBi, Business Analysis, AWS Lambda, Spark, PySpark, Azure, SQL Server.EMPLOYMENT HISTORY Demand Forecasting for parts/material based availability in Warehouse/Plant and also to determine the optimum level of inventory for the Organization
+Вода: MBA from SRM university (SRMU) in 2019. Identify orders at Risk during the order processing based on business SLAs and Predicted Target, to increase productivity
+Нудність тексту: 26.67%
+Стоп-слова: ['at', 'As', 'the', 'to', 'of', 'on', 'for', 'from', 'AND', 'and', 'I', 'a', 'in']
+Кількість слів: 210
+========================================
+
+========================================
+Файл: candidate_116.pdf
+Ключові терміни: ['Data', 'Machine', 'MS', 'Text', 'data']
+Ядро тексту: I have experience related to Data Mining, Data Visualization, Text Analytics, Data Collection and would currently like to expand my horizon and work on Machine Learning projects. BCA from SP Jain University, 2019WORK EXPERIENCE EDUCATIONEVERETT BURNSLEY DATA ANALYST An avid data analyst looking to step into the world of machine learning and data sciences
+Вода: Polymon Blockchain Analyst, Jun 2020 - Ongoing Analyzing the transactions made on a blockchain network and providing insights related to transaction volume market cap and investment predictions to the technical and managerial teams. Data Analyst, Data Mining, Data Visualization, Text Analytics, Data Collection, Data Cleaning, Business Analysis, Python, SQL, Google Bigquery, Tableau, Kibana, MS Excel/ MS Office, Linux, Elastic Search, Machine Learning.ABOUT SKILLS
+Нудність тексту: 23.93%
+Стоп-слова: ['to', 'on', 'the', 'of', 'from', 'and', 'I', 'a', 'An']
+Кількість слів: 117
+========================================
+
+========================================
+Файл: candidate_117.pdf
+Ключові терміни: ['Data', 'Machine', 'Solutions,', 'Statistical', 'Modelling,']
+Ядро тексту: EXPERIENCE LT Solutions Machine Learning and Data Analysis Associate, Jan 2019 - Oct 2020 Understanding and working with Machine Learning models and analyzing datasets for feature engineering and extraction. MAX LECLERC PROFILE A Fresher Seeking Roles In Machine Learning, Business Analysis, Data Predictive Modelling, Statistical Solutions, Data Mining.SKILLS Predictive Modelling, Statistical Solutions, Data Mining, Artificial Intelligence, Forecasting, Data Analyst, Related Skills
+Вода: Working with senior members of the team to get an idea of complex problems and how to approach them.EDUCATION B.Tech(Mechanical) from GODAVARI INSTITUTE OF ENGINEERING AND TECHNOLOGY, 2018JUNIOR DATA SCIENTIST ACTIVITIES Part-time Program in Data Science and Bigdata.PROJECTS Sentiment Analysis and Named entity recognition.. MAX LECLERC PROFILE A Fresher Seeking Roles In Machine Learning, Business Analysis, Data Predictive Modelling, Statistical Solutions, Data Mining.SKILLS Predictive Modelling, Statistical Solutions, Data Mining, Artificial Intelligence, Forecasting, Data Analyst, Related Skills
+Нудність тексту: 20.95%
+Стоп-слова: ['In', 'to', 'the', 'of', 'an', 'for', 'A', 'from', 'OF', 'with', 'AND', 'and', 'in']
+Кількість слів: 105
+========================================
+
+========================================
+Файл: candidate_118.pdf
+Ключові терміни: ['Data', 'Machine', 'Science', 'entire', 'plot']
+Ядро тексту: Currently working on real life Data Science projects with interest in Predictive Analytics, Machine Learning and Deep Learning.WORK BACKGROUND KT banks and holdings Data Analyst, Jun 2018 - till date As an analyst, my fundamental role was to plot and predict bank investment and security holdings. IRIS GAIDON DATA ANALYST SKILLS Machine Learning, Data Mining, Artificial Intelligence, Natural Language Processing, Predictive Modeling, Financial Analysis, Python, SQL, Pandas, Time Series Analysis.EDUCATION B.Com (Commerce) from NK College of Commerce, Mumbai in 2017 MSc (Data Science) from AlS School of Data Science Mumbai in 2019 PERSONAL PROFILE A Data Science enthusiast with a demonstrated history of working in Banking industry
+Вода: Property Valuation using Machine Learning.. Brokerage cost and EMI calculations for customers based on interest rates for future terms and then use the entire data to plot an income venture for the entire month
+Нудність тексту: 23.57%
+Стоп-слова: ['on', 'As', 'of', 'an', 'to', 'the', 'for', 'A', 'from', 'with', 'and', 'a', 'in']
+Кількість слів: 157
+========================================
+
+========================================
+Файл: candidate_119.pdf
+Ключові терміни: ['Data', 'data', 'bring', '2018', 'Used']
+Ядро тексту: SQL, Tableau, PowerBI.Work Experience TUC Data Analyst, Jan 2018 - Nov 2020 Creation of dashboards using SQL. Willfred Dixon ASSOCIATE DATA ANALYST Executive Profile Data analyst actively seeking job roles related to data science and machine learning
+Вода: Education BCA Bhimrao Sen College, Jharkhand, 2018. Other Activities IBM data Analytics
+Нудність тексту: 19.8%
+Стоп-слова: ['to', 'the', 'of', 'for', 'from', 'and']
+Кількість слів: 101
+========================================
+
+========================================
+Файл: candidate_120.pdf
+Ключові терміни: ['Data', 'DATA', 'Analytics,', 'Completed', 'R']
+Ядро тексту: Completed data science course using Python and R programming. ACTIVITIES AND AWARDS COMPLETED DATA SCIENCE TRAINING USING R SOFTWARE
+Вода: PYTHON MACHINE LEARNING. "POWERBI" COURSE FROM UDEMY.
+Нудність тексту: 11.82%
+Стоп-слова: ['FOR', 'to', 'the', 'on', 'for', 'from', 'AND', 'FROM', 'and', 'in']
+Кількість слів: 110
+========================================
+
+========================================
+Файл: candidate_121.pdf
+Ключові терміни: ['Data', 'Big', 'Apache', 'learning,', 'learning']
+Ядро тексту: JADEN WILLOW FRESHER INTERN WORK EXPERIENCE JumpStart Intern Trainee, Apr 2020 - July 2020 Create different machine learning and deep learning models. M.Tech from Calcutta university in 2020.EXECUTIVE SUMMARY Strong engineering professional with a Master's degree in Big data analytics
+Вода: Air Quality index Information extraction from legal data. PROJECTS Application to classify the diseased Cotton leaf
+Нудність тексту: 14.91%
+Стоп-слова: ['to', 'the', 'for', 'from', 'with', 'and', 'a', 'in']
+Кількість слів: 114
+========================================
+
+========================================
+Файл: candidate_122.pdf
+Ключові терміни: ['Data', 'find', 'their', 'HISTORY', 'businesses']
+Ядро тексту: EMPLOYMENT HISTORY Worked as part of a research group that focused on multiple local small businesses to help them improve their reach, customer satisfaction and relationship.Student Research Assistant, Jul 2019-Oct2020SiT EDUCATIONAL HISTORY B.E(IT and ECE) Silnivesh Institute and College of Technology, 2020 ACHIEVEMENTS AND EXTRA CURRICULAR Data science and analyticsPROJECTS Regression Analysis of Large dataset Dataset management Model Creating CrUST Based Models for Axiom Analysis. PROFICIENT SKILLS Data Analysis, Data Science, Data Visualization, Machine Learning, Artificial Intelligence, Decision Tree, Clustering, Python, SQL, Microsoft Excel
+Вода: DIANA MILLER RESEARCH ASSISTANT(ML) PROFESSIONAL PROFILE You can find me doing problems on stats and helping smaller businesses find their right market and solutions. PROFICIENT SKILLS Data Analysis, Data Science, Data Visualization, Machine Learning, Artificial Intelligence, Decision Tree, Clustering, Python, SQL, Microsoft Excel
+Нудність тексту: 14.81%
+Стоп-слова: ['on', 'to', 'as', 'of', 'AND', 'for', 'and', 'a']
+Кількість слів: 108
+========================================
+
+========================================
+Файл: candidate_123.pdf
+Ключові терміни: ['Data', 'University,', 'Singh', 'Ludhiana,', '2018']
+Ядро тексту: Telco Trainee Intern, May 2018 - Dec 2018 Data Handling for clients and giving them insights and reports based on that. Data Analyst, Machine Learning, Data Mining, Data Science, Natural Language Processing, Data Visualization, Data Analysis.ABOUT SKILLS Data Management Using Automated ML scripts
+Вода: Understanding Neural Networks Nanyang University.PROJECTS ACTIVITES. B.Tech(Bio-Tech) Sai Charan Singh University, Ludhiana, 2017 M.Tech(Data Science) Sai Charan Singh University, Ludhiana, 2019WORK EXPERIENCE EDUCATIONFELIX WINSTON FRESHER Fresher having knowledge in machine learning and natural language processing
+Нудність тексту: 15.38%
+Стоп-слова: ['on', 'to', 'an', 'of', 'for', 'from', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 104
+========================================
+
+========================================
+Файл: candidate_124.pdf
+Ключові терміни: ['Data', 'Machine', 'data', 'Modeling,', 'Learning,']
+Ядро тексту: LISA JENNINGS PROFILE A highly disciplined and hard-working individual seeking challenging opportunity in the field of data science and data analytics where I can utilize my skills and knowledge to contribute for the growth of the organizationSKILLS Data Analysis, Data Visualization, Data Structures, Deep Learning, Machine Learning, Artificial Intelligence, Linear Regression, Statistical Modeling, Predictive Modeling, Algorithms, Python, Hive, SQL, Java, Tableau, Big Data, Hadoop, C++, ANN. EXPERIENCE Sahara Medica Intern Dec 2019- May 2020 Model Employee retention factor to employee satisfaction.EDUCATION B.Tech, Visveswaraiah Technological University (VTU) in 2019 JUNIOR INTERN ACTIVITIES Data Science using Machine Learning with R and Python
+Вода: DATA ANALYTICS.PROJECTS BUILDING PREDICTION MODEL TO PREDICT THE IMPACT OF THE INCIDENT RAISED BY THE CUSTOMER. EXPERIENCE Sahara Medica Intern Dec 2019- May 2020 Model Employee retention factor to employee satisfaction.EDUCATION B.Tech, Visveswaraiah Technological University (VTU) in 2019 JUNIOR INTERN ACTIVITIES Data Science using Machine Learning with R and Python
+Нудність тексту: 14.66%
+Стоп-слова: ['to', 'the', 'of', 'TO', 'for', 'A', 'OF', 'with', 'BY', 'and', 'I', 'THE', 'in']
+Кількість слів: 116
+========================================
+
+========================================
+Файл: candidate_125.pdf
+Ключові терміни: ['Software', 'Machine', 'Developer', 'Django,', 'Python,']
+Ядро тексту: Software Developer Jan 2019 to Till Date Developing, designing and optimizing the automation script and crons to reduce the daily task processes. Managing and executing the solution for the database conflicts or data loss that can appear due to new changes.
+Вода: A regular contributor to the system or the product enhancement. ETHAN HUNT PYTHON DEVELOPER SKILLS Django, Python, Relational databases, RestAPI, Github, Jira, PostgreSQL, Software development, Debugging, Machine learning, Natural language Processing, Artificial Intelligence, Data Analysis, Docker, Tornado, Software Developer, Project Management.EDUCATION BCA (Computers) from Dr
+Нудність тексту: 21.23%
+Стоп-слова: ['to', 'the', 'of', 'for', 'from', 'A', 'with', 'and', 'a', 'in']
+Кількість слів: 146
+========================================
+
+========================================
+Файл: candidate_126.pdf
+Ключові терміни: ['Data', 'AWS', '2018', 'using', 'Machine']
+Ядро тексту: Asher Hall DATA CONSULTANT Executive Profile Interested in helping businesses take best decisions using Machine learning and Deep learning solutions. Skills Data Analysis, Data Mining, Deep Learning, Machine Learning, Artificial Intelligence.Work Experience Empryean Data Consultant, Jan 2019 to Apr 2020 Developed an NLP model to extract the Aspects, Topics, and Sentiments of customer comments using Linear Dirichlet Allocation Oclosia Data Consultant, May 2018 to Nov 2018 Understood the pain points of stakeholders via regular interactions; provided quick solutions by performing ad-hoc analysis using SQL on AWS Redshift tables
+Вода: AWS EC2. Education B.Tech(CSE) Jaipur University, 2018
+Нудність тексту: 19.44%
+Стоп-слова: ['to', 'the', 'of', 'an', 'on', 'by', 'and', 'in']
+Кількість слів: 108
+========================================
+
+========================================
+Файл: candidate_127.pdf
+Ключові терміни: ['transaction', 'risk', 'like', 'Learning,', 'Software']
+Ядро тексту: Created risk-model's feature extraction process-flow architecture by utilizing Big Data technologies like Spark/PySpark to ingest and process transaction data.SEAN CAMPBELL SKILLS Software Development, Machine Learning, Deep Learning, Risk Assessment, Requirement Gathering, Application Support, JavaScript, Python, Docker, HTML, Hive, CSS, C, C++. EXPERIENCE EDUCATION B.TECH(ELECTRONICS/TELECOMMUNICATION) FROM BIRLA INSTITUTE OF TECHNOLOGY (BIT), RANCHI IN 2018SOFTWARE DEVELOPER (MACHINE LEARNING) PROJECTS Created model monitoring metrics like CSI and PSI to assess the performance of the deployed model.
+Вода: I have worked on multiple languages and I am quite familiar with a lot of cloud- based software deployment. PROFILE Software developer working as a cloud risk management solutions specialist
+Нудність тексту: 12.14%
+Стоп-слова: ['on', 'TO', 'as', 'of', 'to', 'the', 'IN', 'OF', 'by', 'with', 'FROM', 'and', 'I', 'a', 'in']
+Кількість слів: 140
+========================================
+
+========================================
+Файл: candidate_128.pdf
+Ключові терміни: ['Data', 'entire', '2019', 'Business', 'Analysis,']
+Ядро тексту: BEULA SMITHSON DATA ANALYST WORK EXPERIENCE Graphene health tech Pvt Ltd BI Engineer Oct 2019 to Till Date Responsible for the entire logic layer of the dashboard for various projects. Developed entire Project features from scratch, Worked on many projects related to building dashboard in Tableau using SQL for Finance, Procurement, HR, Audit, Sales, and Quality, etc
+Вода: ACADEMIC PROFILE B.Tech(Computers) from A.G. PROJECTS Analysis of anomaly in Olympics Dataset
+Нудність тексту: 19.85%
+Стоп-слова: ['to', 'the', 'of', 'on', 'for', 'from', 'OF', 'and', 'I', 'in']
+Кількість слів: 136
+========================================
+
+========================================
+Файл: candidate_129.pdf
+Ключові терміни: ['Data', 'Machine', 'Modeling,', 'Analytics,', 'R']
+Ядро тексту: NICHOLAS MENDES F R E S H E R PROFESSIONAL PROFILE Data Science Enthusiast looking roles in Data Analytics, Machine learning, Statistical Modeling, Data Visualization. PROFICIENT SKILLS Data Analyst, Data Analytics, Data Modeling, Data Validation, R, Text Mining, Statistical Modeling, Python, Tableau, Forecasting, Clustering Analysis, Machine Learning, Natural Language Processing.EMPLOYMENT HISTORY Building data based models for classification and transfer learning.Trainee Internship, Nov 2019 - Mar 2020Adept Solution EDUCATIONAL HISTORY B.Tech(CSE) GIT, Kolkata 2020 ACHIEVEMENTS AND EXTRA CURRICULAR Machine Learning Internship Certificate.PROJECTS Product Enlisting categorization Movie Report Analysis.
+Вода: PROFICIENT SKILLS Data Analyst, Data Analytics, Data Modeling, Data Validation, R, Text Mining, Statistical Modeling, Python, Tableau, Forecasting, Clustering Analysis, Machine Learning, Natural Language Processing.EMPLOYMENT HISTORY Building data based models for classification and transfer learning.Trainee Internship, Nov 2019 - Mar 2020Adept Solution EDUCATIONAL HISTORY B.Tech(CSE) GIT, Kolkata 2020 ACHIEVEMENTS AND EXTRA CURRICULAR Machine Learning Internship Certificate.PROJECTS Product Enlisting categorization Movie Report Analysis.. NICHOLAS MENDES F R E S H E R PROFESSIONAL PROFILE Data Science Enthusiast looking roles in Data Analytics, Machine learning, Statistical Modeling, Data Visualization
+Нудність тексту: 17.24%
+Стоп-слова: ['and', 'AND', 'for', 'in']
+Кількість слів: 87
+========================================
+
+========================================
+Файл: candidate_130.pdf
+Ключові терміни: ['College,', 'BGBS', 'Learning,', 'Data', 'Modeling,']
+Ядро тексту: Data Science, Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence, Linear Regression, Statistical Modeling, Predictive Modeling, Bootstrap, MySQL, JDBC, HTML, PHP, CSS, C++.ABOUT SKILLS Portal Building for store front. BCA BGBS College, Mohantpur 2018 MCA BGBS College, Mohantpur 2020WORK EXPERIENCE EDUCATIONGINANNA GOMEZ FRESHER Fresher starting out and wanting to join a role of machine learning engineer or data science engineer
+Вода: Python statistics with Pandas and MatplotlibPROJECTS ACTIVITES. HiB Pvt Ltd Intern, May 2019 - Dec 2019 Building a portfolio store front based on recommender system
+Нудність тексту: 12.94%
+Стоп-слова: ['to', 'on', 'of', 'for', 'with', 'and', 'a']
+Кількість слів: 85
+========================================
+
+========================================
+Файл: candidate_131.pdf
+Ключові терміни: ['Embedded', 'Management,', 'Good', 'GIT,', '2019']
+Ядро тексту: ZACHARY PEREZ PROFILE Good knowledge of C++ and OOPS concepts. EXPERIENCE BOSE Product Engineer Intern, Jan 2019 - Aug 2019 Creating NLP based recommendation system for a product catalog
+Вода: M.Tech (Electrical) from Manipal University in 2019. Good knowledge of Data Structures
+Нудність тексту: 19.01%
+Стоп-слова: ['to', 'the', 'of', 'as', 'on', 'for', 'from', 'The', 'and', 'a', 'in']
+Кількість слів: 121
+========================================
+
+========================================
+Файл: candidate_132.pdf
+Ключові терміни: ['Machine', 'data', 'SAP', 'using', 'am']
+Ядро тексту: I want to join a role where I can experiment and learn with new types of data and increase my ability to build more complex models in the future.WORK BACKGROUND Accenture Application Development Associate. Performed the end to end process of SAP EAM
+Вода: Property Valuation using Machine Learning.. I wasn't aware of Machine learning but after becoming familiar with it over the course of a year I am very much intrigued and fueled by its process and how applications can be developed around it
+Нудність тексту: 26.55%
+Стоп-слова: ['it', 'an', 'the', 'of', 'to', 'on', 'for', 'from', 'by', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 177
+========================================
+
+========================================
+Файл: candidate_133.pdf
+Ключові терміни: ['Data', 'Machine', 'Engineer', 'Learning', '2019']
+Ядро тексту: Projects Whats App ChatBot Devnagari Character recognitionSkills Python, Machine Learning, Natural Language Processing, Text Mining, Data Scientist, Data Analyst, Deep Learning, MongoDB, SQL, Flask, Data Analytics, Big Data Analytics.Work Experience Bristlecone Machine Learning Engineer Nov 2018 to Apr 2020 Solve Bot is using ML to find ticket categories, as well as auto, populate various fields like location, personal details thus enhancing user experience. Drew Hall ASSOCIATE MACHINE LEARNING ENGINEER Executive Profile Machine Learning Engineer skilled in NLP , Chatbot , Databases and creating machine learning models and retraining systems and transforming data science prototypes to production-grade solutions
+Вода: Other Activities Certificate program in python programming. The bot has seamless integration with SAP to get user details
+Нудність тексту: 19.21%
+Стоп-слова: ['to', 'as', 'is', 'for', 'from', 'with', 'The', 'and', 'in']
+Кількість слів: 151
+========================================
+
+========================================
+Файл: candidate_134.pdf
+Ключові терміни: ['Machine', 'Networks,', 'Neural', 'AWS.', 'Learning,']
+Ядро тексту: PROFILE Software Developer and Data Analytics fresher. Computer Vision on AWS
+Вода: Looking to get into the field of Machine Learning. LTT DIGITAL SERVICES JUNIOR SDE, FEB 2019 - TILL DATE Understanding text models and using them to create chatbots on webpages of clients.MARIANA HOLDEN SKILLS Machine Learning, Natural Language Processing, Artificial Intelligence, Pattern Recognition, Neural Networks, RNN, LSTM, Data Science, Deep Learning, Python, NLP, Artificial Neural Networks, Keras, Tensorflow, Object Detection.EXPERIENCE EDUCATION BSC (CA) FROM UNIVERSITY OF HYDERABAD, 2019ASSOCIATE DEVELOPER PROJECTS NLP using AWS
+Нудність тексту: 13.19%
+Стоп-слова: ['on', 'to', 'of', 'the', 'OF', 'AND', 'ON', 'FROM', 'and']
+Кількість слів: 91
+========================================
+
+========================================
+Файл: candidate_135.pdf
+Ключові терміни: ['Assistant', 'Machine', 'data', 'Research', 'Analyst']
+Ядро тексту: Want to work as a Machine Learning Production Engineer.WORK BACKGROUND Larsen & Toubro Analyst Intern, Jul 2019-Till Date Building OCR Models based on test report data OTHER ACTIVITIES Research Assistant & Teaching Assistant at KVIT Gold Medalist at AMITPROJECTS Emotions Analysis using a variable detection engine in real time.. KHOLE MOORE GRADUATE RESEARCHER SKILLS Machine Learning Engineer, Data Analyst, Natural Language Processing, Deep Learning, Reinforcement Learning, Tensorflow, Keras, Scikit Learn, Numpy, Pandas, Matplotlib, Python
+Вода: Proficient in building data models and using Neural Network architectures on them. EDUCATION B.Tech(Electronics/Telecommunication) from AMIT, Bijnor in 2017 M.Tech (Advanced Analytics) from KVIT, PilaniPERSONAL PROFILE Graduate Research Assistant and currently working as an Analyst intern
+Нудність тексту: 16.36%
+Стоп-слова: ['at', 'an', 'on', 'as', 'to', 'from', 'and', 'a', 'in']
+Кількість слів: 110
+========================================
+
+========================================
+Файл: candidate_136.pdf
+Ключові терміни: ['Data', 'Python', 'Machine', 'Learning,', 'Predictive']
+Ядро тексту: PROJECTS Predict Blood anomaly using OpenCV Natural Language based Character Identification EXTRA-CURRICULARS Intermediate Predictive Analysis in Python Importing and Managing Financial Data in Python. PERSONAL SKILLS Data Science, Data Analysis, Data Analytics, Data Mining, Deep Learning, Machine Learning, Artificial Intelligence, Linear Regression, Python, Jupyter, OpenCV
+Вода: Apr 2020 to May 2020 Fake Website Classification. TIMOTHY PETERSON SOFTWARE DEVELOPER INTERN WORK EXPERIENCE NaxApp Software Development Intern
+Нудність тексту: 18.6%
+Стоп-слова: ['to', 'the', 'as', 'of', 'for', 'from', 'with', 'and', 'a', 'in']
+Кількість слів: 129
+========================================
+
+========================================
+Файл: candidate_137.pdf
+Ключові терміни: ['Machine', 'Learning,', 'HISTORY', 'Deep', 'Language']
+Ядро тексту: SHAWN BUFFET DATA PROCESSING INTERN PROFESSIONAL PROFILE Seeking Roles In Machine Learning, Natural Language Processing, Deep Learning. Having good knowledge in using Python Libraries and different data processing tools
+Вода: Previously worked as a Data Processing intern. PROFICIENT SKILLS Machine Learning, Natural Language Processing, Deep Learning, Business Analysis, Python, Numpy, Pandas, Scikit Learn, Tensorflow, Keras, PySpark.EMPLOYMENT HISTORY Create satisfaction ratio prediction models from customer data.Data Processing Junior Intern, May 2019-August 2019SaiKo Computation EDUCATIONAL HISTORY B.Tech Sl Thala Model college Orissa, 2020 ACHIEVEMENTS AND EXTRA CURRICULAR Machine Learning Crash Course from ML Artistry.PROJECTS Gesture Controlled Robotic Lawn Mower
+Нудність тексту: 11.46%
+Стоп-слова: ['In', 'as', 'AND', 'from', 'and', 'a', 'in']
+Кількість слів: 96
+========================================
+
+========================================
+Файл: candidate_138.pdf
+Ключові терміни: ['Data', 'Predict', 'Scientist', 'work', 'Learning,']
+Ядро тексту: M.Tech (Computer Science Engineering) from Indian Institute of Technology (IIT), Kanpur in 2019WORK EXPERIENCE EDUCATIONMACY WILLIAMS DATA SCIENTIST Data Scientist working on problems related to market research and customer analysis. YOLO CNN Object-detection, OCR Insights, find anomaly or performance drop in all possible sub-space
+Вода: Predict the Insurance claim probability. Looking for a role where I can work with a coordinative team and exchange knowledge during the process
+Нудність тексту: 16.46%
+Стоп-слова: ['to', 'the', 'of', 'on', 'for', 'from', 'with', 'and', 'I', 'a', 'To', 'in']
+Кількість слів: 158
+========================================
+
+========================================
+Файл: candidate_139.pdf
+Ключові терміни: ['Web', 'Data', 'Working', 'HTML,', 'Analyst,']
+Ядро тексту: KEISUKE YAMAMOTO PROFILE Professional with 3 months of experience in Web Development and interested in ML.SKILLS Web Developer, Data Analyst, Web Development, Machine Learning, Python, FrontEnd, HTML, Javascript, PHP, CSS, MySQL, Java, Data Structures, OOP, Algorithms, C. Working on different projects which need python, cybersecurity, HTML, CSS, javascript, java, and Docker containers as main skills
+Вода: EXPERIENCE SAI Technologies, Intern, Aug 2020 to Till Date Working at a cybersecurity company as an intern. EDUCATION B.Tech(Computers) from Shri Guru Gobind Singhji College of Engineering and Technology, Nanded in 2019 JUNIOR SOFTWARE DEVELOPER ACTIVITIES Data Analyst, Python Programming.PROJECTS Character Detection using SVM Classification.
+Нудність тексту: 14.0%
+Стоп-слова: ['at', 'to', 'an', 'of', 'as', 'on', 'from', 'with', 'and', 'a', 'in']
+Кількість слів: 100
+========================================
+
+========================================
+Файл: candidate_140.pdf
+Ключові терміни: ['Market', 'Business', '2020', 'learning', 'Research']
+Ядро тексту: Other Activities Certified Python Developer Projects Stock Market Analyzer.Skills Research Associate, Business Analyst, Business Analytics, Data Mining, Data Modeling, Predictive Analysis, Business Intelligence, Machine Learning, Market Research, Customer Engagement, Risk Management, Retention, Audience, Python.Work Experience Kripa Infotech Associate Market Research Analyst Intern, Apr 2020 - Sep 2020 Worked with clients to get an overall idea of how a product is perceived by a target audience. Stella Thatcher ASSOCIATE MARKET ANALYST Executive Profile I am a market research specialist with a grasp of machine learning and looking for a deeper dive into the career of being a professional machine learning engineer
+Вода: Education B.Tech(Mechanical) Bhavleesh Duggar College, Nasik 2020. Focused on large groups of data both structured and unstructered for solutions
+Нудність тексту: 17.65%
+Стоп-слова: ['to', 'the', 'of', 'an', 'on', 'is', 'for', 'by', 'with', 'and', 'I', 'a']
+Кількість слів: 119
+========================================
+
+========================================
+Файл: candidate_141.pdf
+Ключові терміни: ['2019', 'DATA', 'end', '-', 'towards']
+Ядро тексту: ACTIVITIES AND AWARDS INTRODUCTION TO DATA ONTOLOGY.JB MANAGEMENT SOFTWARE DEVELOPER INTERN, JAN 2019 - JUN 2019 Development of a python module to assist OCR models.. KLN SOLUTIONS JUNIOR DATA EVANGELIST, JULY 2019 - TILL DATE Building applications and exploring data and its use over different management solutions.NOLAN DRUCKS SKILLS Data Manipulation, Data Mining, Python, SQL, R Programming, PowerBI, Tableau, Machine Learning, PySpark, Azure Databricks, AWS
+Вода: Motivated towards learning, solving and producing better results. PROFILE Software developer with a niche towards end to end machine learning projects
+Нудність тексту: 12.3%
+Стоп-слова: ['to', 'TO', 'of', 'AND', 'with', 'and', 'a']
+Кількість слів: 122
+========================================
+
+========================================
+Файл: candidate_142.pdf
+Ключові терміни: ['Software', 'Machine', 'learning', 'Engineer,', 'Built']
+Ядро тексту: Motivated to learn, grow and excel my experience by challenging myself.WORK BACKGROUND KLP Technology Solutions Software Engineer, Jan 2019 - till date Built predictive and decision models using machine learning algorithms for various business study cases with feature engineering and evaluation methods. KELSEY STENS SOFTWARE DEVELOPER(MACHINE LEARNING) SKILLS Software Engineer, Data Analyst, Machine Learning, Text Analytics, Software Development, Object Oriented Programming, Pandas, Numpy, Java, Python, SpringBoot, Laravel.EDUCATION B.Tech (ECE) Dr
+Вода: Developed and integrated the UI components with HMI framework for Head Up Display.. Jagjiban Rao Engineering College, 2019PERSONAL PROFILE Software developer focused in the areas of Machine learning application development
+Нудність тексту: 18.1%
+Стоп-слова: ['to', 'the', 'of', 'for', 'by', 'with', 'and', 'in']
+Кількість слів: 116
+========================================
+
+========================================
+Файл: candidate_143.pdf
+Ключові терміни: ['Machine', 'Intern', 'skills', '-', 'Learning,']
+Ядро тексту: PROJECTS Real -Time Face Mask Detection EXTRA-CURRICULARS Machine learning with Python Neural Network applied in PyTorch. DRDO Intern Developer, Dec 2018 - Jul 2019 Worked on an Image identifier based on satellite captured images
+Вода: Scrapping the data using beautiful soup and converting that into a structured format. I have strong attention to detail when it comes to project building and analytical skills to work on complex problems
+Нудність тексту: 12.7%
+Стоп-слова: ['it', 'an', 'on', 'the', 'to', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 126
+========================================
+
+========================================
+Файл: candidate_144.pdf
+Ключові терміни: ['Software', 'HISTORY', '2020', 'business', 'can']
+Ядро тексту: BENJAMIN OSTA FRESHER DEVELOPER PROFESSIONAL PROFILE As a fresher I have in the field of Software Development and business management. PROFICIENT SKILLS Software Engineer, Software Developer, C++, C#, Jenkins, SpringBoot, Django, Python, SAP, Firebase.EMPLOYMENT HISTORY Working on a data compression delivery system, along with database management of business members.Intern Feb 2020 to Nov 2020Flipkart EDUCATIONAL HISTORY B.Tech(Civil) from Anna University in 2020
+Вода: And right now I am in search of a role where I can learn and apply machine learning models to real-life projects. PROFICIENT SKILLS Software Engineer, Software Developer, C++, C#, Jenkins, SpringBoot, Django, Python, SAP, Firebase.EMPLOYMENT HISTORY Working on a data compression delivery system, along with database management of business members.Intern Feb 2020 to Nov 2020Flipkart EDUCATIONAL HISTORY B.Tech(Civil) from Anna University in 2020
+Нудність тексту: 17.86%
+Стоп-слова: ['As', 'the', 'of', 'to', 'on', 'from', 'with', 'and', 'I', 'And', 'a', 'in']
+Кількість слів: 84
+========================================
+
+========================================
+Файл: candidate_145.pdf
+Ключові терміни: ['Big', 'Data', 'data', '2019', 'that']
+Ядро тексту: : B.Tech(Electronics) from The Amity School of Engineering & Technology (ASET), Noida in 2019 WORK EXPERIENCE EDUCATIONJEROME PELINSKY BIG DATA ANALYST Big data analytics working and database warehouse manager with robust experience in handling all kinds of data. Coca-COla Big Data Analyst, Nov 2019 to Till Date Using the production and shipment data, create a delivery mechanism that would automate the process of data warehousing immediately after a batch is served out of the production line
+Вода: Currently in search of role that offers more of development. I have also used multiple cloud infrastructure services and am well acquainted with them
+Нудність тексту: 17.05%
+Стоп-слова: ['to', 'the', 'of', 'is', 'from', 'with', 'The', 'and', 'I', 'a', 'in']
+Кількість слів: 129
+========================================
+
+========================================
+Файл: candidate_146.pdf
+Ключові терміни: ['data', 'material', 'based', 'Data', 'till']
+Ядро тексту: LEHNA PATRICK PROFILE I have worked on grassroot level design of data based models and research on various data that is available.SKILLS Dataset Management, Requirements Gathering, Predictive Modeling, Data Mining, Data Insights, Artificial Intelligence, Programming Language, Process Improvement, Python. EXPERIENCE TTR Innovation labs Research Analyst, Apr 2018 - till Date Ontology for capturing and reasoning with knowledge based on NLP
+Вода: Defect detection and classification for semiconductor wafers.EDUCATION B.Tech (Metallurgy) NIT Warangal 2017 M.Tech from IIT Kanpur, 2019GRADUATE RESEARCH ASSISTANT ACTIVITIES Introduction to R Deep Learning and Neural networksPROJECTS Prediction of material properties, descriptor formulation, and machine learning for prediction of material properties.. EXPERIENCE TTR Innovation labs Research Analyst, Apr 2018 - till Date Ontology for capturing and reasoning with knowledge based on NLP
+Нудність тексту: 13.73%
+Стоп-слова: ['on', 'to', 'of', 'is', 'for', 'from', 'with', 'and', 'I']
+Кількість слів: 102
+========================================
+
+========================================
+Файл: candidate_147.pdf
+Ключові терміни: ['Learning', 'which', 'R', 'E', 'can']
+Ядро тексту: Jaroslav Chechnik F R E S H E R Executive Profile Looking for a job opportunity in which I can interact, learn, and contribute solutions to the problems, which enhances company benefits along with my career. Other Activities Deep Learning Masters Machine Learning Projects Music Genre Classification Face, eye, smile recognitionSkills Python, Anaconda, NumPy, Pandas, Matplotlib, Scikit Learn, TensorFlow, Streamlit, Arduino, Raspberry Pi.Work Experience Experts Hub Intern, May 2020 SMART PARKING SYSTEM Education B
+Вода: Tech, ECE VIT-AP University 2021. Other Activities Deep Learning Masters Machine Learning Projects Music Genre Classification Face, eye, smile recognitionSkills Python, Anaconda, NumPy, Pandas, Matplotlib, Scikit Learn, TensorFlow, Streamlit, Arduino, Raspberry Pi.Work Experience Experts Hub Intern, May 2020 SMART PARKING SYSTEM Education B
+Нудність тексту: 5.06%
+Стоп-слова: ['to', 'the', 'for', 'with', 'and', 'I', 'a', 'in']
+Кількість слів: 79
+========================================
+
+========================================
+Файл: candidate_148.pdf
+Ключові терміни: ['Data', '&', 'Machine', 'data', 'Performed']
+Ядро тексту: SADHANA CONSULTANTS DATA SCIENTIST-ANALYTICS & INSIGHTS JUL 2019 TO TILL DATE Performed extraction of data-driven insights from large unstructured data sets by performing knowledge discovery tasks like data acquisition, cleaning, integration & transformation. Performed Unsupervised Machine Learning like Clustering & Topic modelling.MATILDA BENHAMS SKILLS Data Science, Data Analytics, Database Management, Data Analysis, Data Mining, Data Modelling, Data Integration, Machine Learning, Statistical Modelling, Natural Language Processing, Predictive Analytics, Python, SQL, Flask
+Вода: EXPERIENCE EDUCATION B.TECH/B.E. (COMPUTERS) FROM RAJIV GANDHI PROUDYOGIKI VISHWAVIDYALAYA (RGPV), BHOPAL IN 2019DATA SCIENTIST PROJECTS Transformer based Question Answering Chatbot
+Нудність тексту: 17.69%
+Стоп-слова: ['TO', 'the', 'of', 'IN', 'for', 'A', 'from', 'by', 'with', 'FROM', 'and', 'in']
+Кількість слів: 130
+========================================
+
+========================================
+Файл: candidate_149.pdf
+Ключові терміни: ['Learning,', 'Deep', 'Reinforcement', 'Machine', 'IIIT']
+Ядро тексту: MIRAD YASTEIN ANALYST INTERN SKILLS Artificial Intelligence, Deep Learning, Reinforcement Learning, Tensorflow Keras, Scikit learn, Numpy, Pandas, Matplotlib.EDUCATION B.Tech(IT) from IIIT D&M Kancheepuram, Chennai in 2019PERSONAL PROFILE Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow. Keras.WORK BACKGROUND Larsen & Toubro Analyst Intern, Dec 2019-Till Date Building OCR Models based on test report data OTHER ACTIVITIES KSST ScholarPROJECTS Wesbite Using React Made a Fully customizable website for a company
+Вода: Keras.WORK BACKGROUND Larsen & Toubro Analyst Intern, Dec 2019-Till Date Building OCR Models based on test report data OTHER ACTIVITIES KSST ScholarPROJECTS Wesbite Using React Made a Fully customizable website for a company. MIRAD YASTEIN ANALYST INTERN SKILLS Artificial Intelligence, Deep Learning, Reinforcement Learning, Tensorflow Keras, Scikit learn, Numpy, Pandas, Matplotlib.EDUCATION B.Tech(IT) from IIIT D&M Kancheepuram, Chennai in 2019PERSONAL PROFILE Machine Learning Engineer seeking assignments Deep Learning, Reinforcement Learning, Tensorflow
+Нудність тексту: 8.57%
+Стоп-слова: ['on', 'for', 'from', 'a', 'in']
+Кількість слів: 70
+========================================
+
+========================================
+Файл: ChloeMartinezResume.pdf
+Ключові терміни: ['•', 'Seattle,', 'Agile', 'data', '\x00']
+Ядро тексту: Senior Software Engineer 06/2015   12/2018 Global Tech Solutions Seattle, WA Created a multi-platform application using Angular and Node.js, achieving a user base growth of 100K in the first year. Software Developer 03/2012   05/2015 Innovative Web Solutions Seattle, WA Developed and maintained client websites using JavaScript and TypeScript, increasing client satisfaction by 30%
+Вода: www .enhancv .comPowered by• • • • • • • • • • • • • • • q    0 . EXPERIENCE Lead Full Stack Developer 01/2019   Present Tech Innovations Inc
+Нудність тексту: 38.03%
+Стоп-слова: ['at', 'to', 'an', 'of', 'as', 'the', 'on', 'for', 'by', 'with', 'and', 'With', 'a', 'in']
+Кількість слів: 518
+========================================
+

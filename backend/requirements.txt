@@ -1,4 +1,4 @@
-flask
-transformers
-torch
-PyPDF2
+transformers==4.34.0
+torch==2.0.0
+PyPDF2==3.0.1
+numpy==1.24.2
